@@ -1,0 +1,1195 @@
+order_id,amount,profit,category,city,order_date,state,customername,customer_id,product_id,date_id
+B-26776,9726,1275,Electronics,Miami,2023-06-27,Florida,David Padilla,1,1.0,1
+B-26776,9726,1275,Electronics,Chicago,2024-12-27,Illinois,Connor Morgan,2,2.0,2
+B-26776,9726,1275,Electronics,Buffalo,2021-07-25,New York,Robert Stone,3,3.0,3
+B-26776,4975,1330,Electronics,Miami,2023-06-27,Florida,David Padilla,4,4.0,4
+B-26776,4975,1330,Electronics,Chicago,2024-12-27,Illinois,Connor Morgan,5,5.0,5
+B-26776,4975,1330,Electronics,Buffalo,2021-07-25,New York,Robert Stone,6,6.0,6
+B-26942,1525,185,Office Supplies,Orlando,2024-05-11,Florida,John Fields,7,7.0,7
+B-26942,1525,185,Office Supplies,Miami,2021-10-09,Florida,Clayton Smith,8,8.0,8
+B-26640,883,117,Electronics,Los Angeles,2022-11-18,California,Richard Kelley,9,9.0,9
+B-26640,8127,3551,Furniture,Los Angeles,2022-11-18,California,Richard Kelley,10,10.0,10
+B-25890,2516,734,Furniture,New York City,2023-11-12,New York,Jacqueline Hubbard,11,11.0,11
+B-25102,2975,462,Office Supplies,New York City,2020-03-23,New York,Jessica Anderson,12,12.0,12
+B-25426,6851,2812,Office Supplies,Orlando,2020-05-04,Florida,Mary Taylor,13,13.0,13
+B-25426,7626,1046,Furniture,Orlando,2020-05-04,Florida,Mary Taylor,14,14.0,14
+B-25426,1023,78,Furniture,Orlando,2020-05-04,Florida,Mary Taylor,15,15.0,15
+B-25238,7600,1098,Office Supplies,Springfield,2023-11-09,Illinois,Walter Crawford,16,16.0,16
+B-25238,7501,262,Office Supplies,Springfield,2023-11-09,Illinois,Walter Crawford,17,17.0,17
+B-25051,725,133,Office Supplies,Rochester,2024-12-30,New York,Lawrence Robinson,18,18.0,18
+B-25051,7201,2685,Furniture,Rochester,2024-12-30,New York,Lawrence Robinson,19,19.0,19
+B-26510,1629,265,Office Supplies,Dallas,2025-02-11,Texas,Douglas Pennington,20,20.0,20
+B-26510,1629,265,Office Supplies,San Diego,2024-01-23,California,Ricardo Andrews,21,21.0,21
+B-25104,8971,2971,Office Supplies,San Diego,2020-11-28,California,Paul Raymond,22,22.0,22
+B-25104,2939,894,Office Supplies,San Diego,2020-11-28,California,Paul Raymond,23,23.0,23
+B-25553,9380,414,Electronics,Rochester,2024-05-30,New York,Karen Johnson,24,24.0,24
+B-25553,8558,1644,Office Supplies,Rochester,2024-05-30,New York,Karen Johnson,25,25.0,25
+B-25553,4080,72,Office Supplies,Rochester,2024-05-30,New York,Karen Johnson,26,26.0,26
+B-26703,4206,1821,Electronics,Austin,2022-01-23,Texas,Juan Erickson,27,27.0,27
+B-26232,5219,1180,Office Supplies,New York City,2021-12-17,New York,Alexander Reed,28,28.0,28
+B-26232,5219,1180,Office Supplies,San Francisco,2023-02-03,California,Jacqueline Harris,29,29.0,29
+B-25394,3686,760,Office Supplies,San Francisco,2022-10-30,California,Tyler Park,30,30.0,30
+B-25394,3686,760,Office Supplies,Columbus,2022-01-15,Ohio,Richard Wolfe,31,31.0,31
+B-26157,6045,1606,Office Supplies,Orlando,2023-12-14,Florida,Sierra Rios,32,32.0,32
+B-26157,9337,554,Office Supplies,Orlando,2023-12-14,Florida,Sierra Rios,33,33.0,33
+B-25555,4051,1848,Electronics,San Diego,2023-07-03,California,Jessica Richardson,34,34.0,34
+B-25555,4051,1848,Electronics,Cincinnati,2021-05-08,Ohio,Kimberly Warren,35,35.0,35
+B-25555,5011,866,Furniture,San Diego,2023-07-03,California,Jessica Richardson,36,36.0,36
+B-25555,5011,866,Furniture,Cincinnati,2021-05-08,Ohio,Kimberly Warren,37,37.0,37
+B-26139,3958,630,Furniture,Orlando,2022-10-07,Florida,Casey Garcia,38,38.0,38
+B-26139,3132,963,Furniture,Orlando,2022-10-07,Florida,Casey Garcia,39,39.0,39
+B-25032,7784,2937,Office Supplies,San Francisco,2024-08-06,California,Denise Hampton,40,40.0,40
+B-25032,5591,1696,Office Supplies,San Francisco,2024-08-06,California,Denise Hampton,41,41.0,41
+B-25032,5122,2413,Electronics,San Francisco,2024-08-06,California,Denise Hampton,42,42.0,42
+B-25730,8293,2632,Office Supplies,Cleveland,2022-01-05,Ohio,Justin Rodriguez,43,43.0,43
+B-25730,8293,2632,Office Supplies,Rochester,2020-10-17,New York,Ms. Emily Baxter,44,44.0,44
+B-25730,8293,2632,Office Supplies,Los Angeles,2023-08-21,California,Austin White,45,45.0,45
+B-25730,2863,205,Electronics,Cleveland,2022-01-05,Ohio,Justin Rodriguez,46,46.0,46
+B-25730,2863,205,Electronics,Rochester,2020-10-17,New York,Ms. Emily Baxter,47,47.0,47
+B-25730,2863,205,Electronics,Los Angeles,2023-08-21,California,Austin White,48,48.0,48
+B-26470,3090,573,Furniture,San Diego,2024-12-27,California,Morgan Montes,49,49.0,49
+B-26470,3090,573,Furniture,Cincinnati,2021-06-18,Ohio,Christine Mosley,50,50.0,50
+B-26470,3090,573,Furniture,Austin,2023-05-27,Texas,Ashley Rodriguez,51,51.0,51
+B-26470,3090,573,Furniture,Dallas,2021-10-12,Texas,Elizabeth King,52,52.0,52
+B-26470,9683,1014,Electronics,San Diego,2024-12-27,California,Morgan Montes,53,53.0,53
+B-26470,9683,1014,Electronics,Cincinnati,2021-06-18,Ohio,Christine Mosley,54,54.0,54
+B-26470,9683,1014,Electronics,Austin,2023-05-27,Texas,Ashley Rodriguez,55,55.0,55
+B-26470,9683,1014,Electronics,Dallas,2021-10-12,Texas,Elizabeth King,56,56.0,56
+B-25988,2463,648,Furniture,Cincinnati,2022-09-19,Ohio,Connie Holmes,57,57.0,57
+B-25568,7811,1538,Furniture,Miami,2022-03-25,Florida,Melissa Peck,58,58.0,58
+B-26730,6139,451,Furniture,Orlando,2022-02-26,Florida,David Smith,59,59.0,59
+B-26730,6139,451,Furniture,Houston,2021-04-05,Texas,Jacqueline Harris,60,60.0,60
+B-26730,8636,3192,Furniture,Orlando,2022-02-26,Florida,David Smith,61,61.0,61
+B-26730,8636,3192,Furniture,Houston,2021-04-05,Texas,Jacqueline Harris,62,62.0,62
+B-26730,4439,1712,Furniture,Orlando,2022-02-26,Florida,David Smith,63,63.0,63
+B-26730,4439,1712,Furniture,Houston,2021-04-05,Texas,Jacqueline Harris,64,64.0,64
+B-25372,1016,172,Furniture,Buffalo,2020-11-16,New York,Heather Jenkins,65,65.0,65
+B-25372,5768,2059,Furniture,Buffalo,2020-11-16,New York,Heather Jenkins,66,66.0,66
+B-25372,1217,151,Furniture,Buffalo,2020-11-16,New York,Heather Jenkins,67,67.0,67
+B-26026,953,93,Office Supplies,Cleveland,2024-12-12,Ohio,Kelsey Castaneda,68,68.0,68
+B-26026,953,93,Office Supplies,Los Angeles,2023-04-06,California,Katherine Harris,69,69.0,69
+B-26026,7355,1034,Furniture,Cleveland,2024-12-12,Ohio,Kelsey Castaneda,70,70.0,70
+B-26026,7355,1034,Furniture,Los Angeles,2023-04-06,California,Katherine Harris,71,71.0,71
+B-26026,1843,248,Electronics,Cleveland,2024-12-12,Ohio,Kelsey Castaneda,72,72.0,72
+B-26026,1843,248,Electronics,Los Angeles,2023-04-06,California,Katherine Harris,73,73.0,73
+B-26026,1603,361,Office Supplies,Cleveland,2024-12-12,Ohio,Kelsey Castaneda,74,74.0,74
+B-26026,1603,361,Office Supplies,Los Angeles,2023-04-06,California,Katherine Harris,75,75.0,75
+B-25295,2025,528,Office Supplies,Miami,2024-01-28,Florida,Paul Rogers,76,76.0,76
+B-25295,6800,167,Office Supplies,Miami,2024-01-28,Florida,Paul Rogers,77,77.0,77
+B-26121,1126,55,Furniture,Tampa,2022-01-16,Florida,Jon Banks,78,78.0,78
+B-26121,1126,55,Furniture,Buffalo,2022-12-16,New York,Michelle Williams,79,79.0,79
+B-25560,7533,3508,Furniture,San Diego,2023-07-13,California,Andrew Allen,80,80.0,80
+B-25560,4734,1178,Office Supplies,San Diego,2023-07-13,California,Andrew Allen,81,81.0,81
+B-25560,4074,1175,Electronics,San Diego,2023-07-13,California,Andrew Allen,82,82.0,82
+B-25560,2334,484,Furniture,San Diego,2023-07-13,California,Andrew Allen,83,83.0,83
+B-26076,2750,1239,Electronics,Buffalo,2025-03-10,New York,Vanessa Bauer,84,84.0,84
+B-26076,2750,1239,Electronics,Cleveland,2024-09-24,Ohio,Sean Smith,85,85.0,85
+B-26076,8639,3104,Office Supplies,Buffalo,2025-03-10,New York,Vanessa Bauer,86,86.0,86
+B-26076,8639,3104,Office Supplies,Cleveland,2024-09-24,Ohio,Sean Smith,87,87.0,87
+B-25872,3808,1192,Office Supplies,New York City,2020-04-13,New York,Shelly Sweeney,88,88.0,88
+B-25872,2588,705,Office Supplies,New York City,2020-04-13,New York,Shelly Sweeney,89,89.0,89
+B-26185,1591,727,Electronics,Springfield,2022-06-27,Illinois,Emily Gill,90,90.0,90
+B-26185,1591,727,Electronics,Tampa,2021-03-14,Florida,Brian Patrick,91,91.0,91
+B-26185,1591,727,Electronics,Cincinnati,2022-02-23,Ohio,Dr. Sarah Booth,92,92.0,92
+B-26259,1757,622,Furniture,Cleveland,2022-03-29,Ohio,Douglas Mcfarland,93,93.0,93
+B-26259,1757,622,Furniture,Peoria,2022-11-20,Illinois,Kayla Ross,94,94.0,94
+B-25142,6940,253,Furniture,Orlando,2021-11-12,Florida,Marc Strickland,95,95.0,95
+B-25142,5105,465,Electronics,Orlando,2021-11-12,Florida,Marc Strickland,96,96.0,96
+B-25326,5578,277,Furniture,Miami,2021-08-17,Florida,Charlene Brown,97,97.0,97
+B-25326,5578,277,Furniture,Columbus,2022-05-16,Ohio,Charles Smith,98,98.0,98
+B-26795,5224,1958,Furniture,Houston,2023-07-16,Texas,Karen Townsend,99,99.0,99
+B-26795,5002,1801,Office Supplies,Houston,2023-07-16,Texas,Karen Townsend,100,100.0,100
+B-26795,7380,1673,Office Supplies,Houston,2023-07-16,Texas,Karen Townsend,101,101.0,101
+B-25660,7595,2873,Furniture,Los Angeles,2020-08-18,California,Steven Cox,102,102.0,102
+B-25660,7595,2873,Furniture,Rochester,2022-04-19,New York,Cynthia Rodriguez,103,103.0,103
+B-25410,1954,294,Furniture,Austin,2022-12-23,Texas,Jessica Baker,104,104.0,104
+B-25690,523,95,Electronics,Dallas,2024-12-07,Texas,Mark Blackburn,105,105.0,105
+B-26464,5704,714,Electronics,Austin,2022-02-03,Texas,Zachary Perez,106,106.0,106
+B-26464,5704,714,Electronics,San Diego,2021-12-12,California,Brian Green,107,107.0,107
+B-26464,8797,1010,Furniture,Austin,2022-02-03,Texas,Zachary Perez,108,108.0,108
+B-26464,8797,1010,Furniture,San Diego,2021-12-12,California,Brian Green,109,109.0,109
+B-26464,9236,2899,Electronics,Austin,2022-02-03,Texas,Zachary Perez,110,110.0,110
+B-26464,9236,2899,Electronics,San Diego,2021-12-12,California,Brian Green,111,111.0,111
+B-26454,9109,586,Furniture,Miami,2020-05-17,Florida,Becky Leach,112,112.0,112
+B-26742,4358,526,Electronics,Dallas,2022-12-05,Texas,Bryan Russell,113,113.0,113
+B-26742,4358,526,Electronics,San Francisco,2024-09-17,California,Tony Maddox,114,114.0,114
+B-26742,6459,825,Electronics,Dallas,2022-12-05,Texas,Bryan Russell,115,115.0,115
+B-26742,6459,825,Electronics,San Francisco,2024-09-17,California,Tony Maddox,116,116.0,116
+B-25510,2478,92,Furniture,San Francisco,2023-05-08,California,Jason Randolph,117,117.0,117
+B-25510,2478,92,Furniture,New York City,2021-03-03,New York,Laura Andrews,118,118.0,118
+B-25510,2478,92,Furniture,San Francisco,2021-03-18,California,Mrs. Stephanie Hooper,119,119.0,119
+B-25510,2478,92,Furniture,Cleveland,2023-04-24,Ohio,Anthony Evans,120,120.0,120
+B-25936,9992,3696,Office Supplies,Rochester,2021-10-09,New York,Patrick Williams,121,121.0,121
+B-25936,9992,3696,Office Supplies,Austin,2022-04-15,Texas,Susan Burke,122,122.0,122
+B-25936,9992,3696,Office Supplies,Rochester,2022-08-29,New York,Brent Hernandez,123,123.0,123
+B-25936,9619,3420,Office Supplies,Rochester,2021-10-09,New York,Patrick Williams,124,124.0,124
+B-25936,9619,3420,Office Supplies,Austin,2022-04-15,Texas,Susan Burke,125,125.0,125
+B-25936,9619,3420,Office Supplies,Rochester,2022-08-29,New York,Brent Hernandez,126,126.0,126
+B-25884,9538,3158,Electronics,San Francisco,2024-09-04,California,Sean Elliott,127,127.0,127
+B-25884,9538,3158,Electronics,Cleveland,2021-05-18,Ohio,Wanda West,128,128.0,128
+B-25884,9035,1227,Furniture,San Francisco,2024-09-04,California,Sean Elliott,129,129.0,129
+B-25884,9035,1227,Furniture,Cleveland,2021-05-18,Ohio,Wanda West,130,130.0,130
+B-26287,2684,670,Office Supplies,Tampa,2024-07-02,Florida,Renee Solomon,131,131.0,131
+B-26287,822,147,Furniture,Tampa,2024-07-02,Florida,Renee Solomon,132,132.0,132
+B-26287,9730,2341,Furniture,Tampa,2024-07-02,Florida,Renee Solomon,133,133.0,133
+B-26287,2483,236,Electronics,Tampa,2024-07-02,Florida,Renee Solomon,134,134.0,134
+B-26564,1297,600,Office Supplies,Orlando,2024-02-16,Florida,Daryl Miles,135,135.0,135
+B-26564,7909,1942,Electronics,Orlando,2024-02-16,Florida,Daryl Miles,136,136.0,136
+B-26293,9768,4518,Furniture,Dallas,2021-11-26,Texas,Michael Hunt,137,137.0,137
+B-26293,4968,934,Furniture,Dallas,2021-11-26,Texas,Michael Hunt,138,138.0,138
+B-26293,1731,149,Electronics,Dallas,2021-11-26,Texas,Michael Hunt,139,139.0,139
+B-25915,3433,1169,Office Supplies,San Francisco,2024-02-01,California,Adam Clark,140,140.0,140
+B-25915,3433,1169,Office Supplies,Springfield,2021-09-09,Illinois,Amy Olsen,141,141.0,141
+B-25915,3433,1169,Office Supplies,San Diego,2021-09-08,California,Stacey Miller,142,142.0,142
+B-25915,3887,1490,Office Supplies,San Francisco,2024-02-01,California,Adam Clark,143,143.0,143
+B-25915,3887,1490,Office Supplies,Springfield,2021-09-09,Illinois,Amy Olsen,144,144.0,144
+B-25915,3887,1490,Office Supplies,San Diego,2021-09-08,California,Stacey Miller,145,145.0,145
+B-26496,1801,641,Office Supplies,Los Angeles,2024-07-09,California,Daniel Mosley,146,146.0,146
+B-26496,5301,817,Furniture,Los Angeles,2024-07-09,California,Daniel Mosley,147,147.0,147
+B-26496,1166,520,Office Supplies,Los Angeles,2024-07-09,California,Daniel Mosley,148,148.0,148
+B-26496,3196,1411,Office Supplies,Los Angeles,2024-07-09,California,Daniel Mosley,149,149.0,149
+B-25856,3428,350,Furniture,Springfield,2023-02-28,Illinois,Monica Gibson,150,150.0,150
+B-25856,7223,2433,Office Supplies,Springfield,2023-02-28,Illinois,Monica Gibson,151,151.0,151
+B-25856,3731,647,Office Supplies,Springfield,2023-02-28,Illinois,Monica Gibson,152,152.0,152
+B-26899,8903,4401,Office Supplies,Columbus,2022-08-08,Ohio,Christopher Jordan,153,153.0,153
+B-25916,6009,2107,Electronics,Chicago,2022-12-07,Illinois,Christina Davis,154,154.0,154
+B-25916,6009,2107,Electronics,Austin,2024-04-29,Texas,Claudia Curry,155,155.0,155
+B-25916,2858,230,Furniture,Chicago,2022-12-07,Illinois,Christina Davis,156,156.0,156
+B-25916,2858,230,Furniture,Austin,2024-04-29,Texas,Claudia Curry,157,157.0,157
+B-25916,8175,525,Furniture,Chicago,2022-12-07,Illinois,Christina Davis,158,158.0,158
+B-25916,8175,525,Furniture,Austin,2024-04-29,Texas,Claudia Curry,159,159.0,159
+B-25916,5846,586,Furniture,Chicago,2022-12-07,Illinois,Christina Davis,160,160.0,160
+B-25916,5846,586,Furniture,Austin,2024-04-29,Texas,Claudia Curry,161,161.0,161
+B-26428,706,197,Electronics,Austin,2022-01-02,Texas,Brandon Anderson,162,162.0,162
+B-26332,9835,2571,Furniture,Dallas,2022-06-10,Texas,George Foster,163,163.0,163
+B-26332,9835,2571,Furniture,Orlando,2021-11-16,Florida,Nicholas Anderson,164,164.0,164
+B-26332,9835,2571,Furniture,Los Angeles,2022-08-17,California,Emily Ellison,165,165.0,165
+B-26332,9691,3056,Office Supplies,Dallas,2022-06-10,Texas,George Foster,166,166.0,166
+B-26332,9691,3056,Office Supplies,Orlando,2021-11-16,Florida,Nicholas Anderson,167,167.0,167
+B-26332,9691,3056,Office Supplies,Los Angeles,2022-08-17,California,Emily Ellison,168,168.0,168
+B-26332,7826,1221,Furniture,Dallas,2022-06-10,Texas,George Foster,169,169.0,169
+B-26332,7826,1221,Furniture,Orlando,2021-11-16,Florida,Nicholas Anderson,170,170.0,170
+B-26332,7826,1221,Furniture,Los Angeles,2022-08-17,California,Emily Ellison,171,171.0,171
+B-25303,770,241,Furniture,Austin,2021-11-23,Texas,Darren Perez,172,172.0,172
+B-25303,770,241,Furniture,Cincinnati,2023-03-04,Ohio,Michelle Hunter,173,173.0,173
+B-26507,9895,1598,Furniture,Rochester,2023-12-16,New York,Janet Guerrero,174,174.0,174
+B-25983,6517,1581,Office Supplies,Miami,2024-05-19,Florida,Jeffrey Kline,175,175.0,175
+B-25983,6517,1581,Office Supplies,Tampa,2020-05-14,Florida,Ryan Bullock,176,176.0,176
+B-25983,1166,349,Furniture,Miami,2024-05-19,Florida,Jeffrey Kline,177,177.0,177
+B-25983,1166,349,Furniture,Tampa,2020-05-14,Florida,Ryan Bullock,178,178.0,178
+B-25156,9820,793,Furniture,Buffalo,2021-08-29,New York,Tom Lawson,179,179.0,179
+B-26759,8563,2624,Office Supplies,Dallas,2024-11-10,Texas,Rebecca Smith,180,180.0,180
+B-26759,4441,281,Electronics,Dallas,2024-11-10,Texas,Rebecca Smith,181,181.0,181
+B-26244,7340,2271,Office Supplies,Orlando,2021-12-05,Florida,William Welch,182,182.0,182
+B-26244,5442,1610,Electronics,Orlando,2021-12-05,Florida,William Welch,183,183.0,183
+B-26365,1895,391,Furniture,Tampa,2024-07-05,Florida,Mr. Curtis Bailey,184,184.0,184
+B-26365,5323,322,Office Supplies,Tampa,2024-07-05,Florida,Mr. Curtis Bailey,185,185.0,185
+B-26212,8850,279,Office Supplies,Miami,2024-06-25,Florida,Janet Carlson,186,186.0,186
+B-26212,8667,1266,Office Supplies,Miami,2024-06-25,Florida,Janet Carlson,187,187.0,187
+B-25042,6903,105,Furniture,Chicago,2024-05-31,Illinois,Spencer Spears,188,188.0,188
+B-25042,8793,3010,Office Supplies,Chicago,2024-05-31,Illinois,Spencer Spears,189,189.0,189
+B-25901,9883,4812,Office Supplies,Buffalo,2020-10-20,New York,Jeffrey Middleton,190,190.0,190
+B-25901,9883,4812,Office Supplies,Orlando,2022-08-11,Florida,Veronica Kelley,191,191.0,191
+B-25901,9883,4812,Office Supplies,Springfield,2021-10-17,Illinois,Leslie Bean,192,192.0,192
+B-25901,5210,1185,Office Supplies,Buffalo,2020-10-20,New York,Jeffrey Middleton,193,193.0,193
+B-25901,5210,1185,Office Supplies,Orlando,2022-08-11,Florida,Veronica Kelley,194,194.0,194
+B-25901,5210,1185,Office Supplies,Springfield,2021-10-17,Illinois,Leslie Bean,195,195.0,195
+B-26747,3574,851,Electronics,Los Angeles,2022-02-23,California,Amy Wilson,196,196.0,196
+B-26747,576,76,Furniture,Los Angeles,2022-02-23,California,Amy Wilson,197,197.0,197
+B-26698,1860,457,Electronics,Cleveland,2023-09-20,Ohio,Susan Ramirez,198,198.0,198
+B-25841,782,374,Office Supplies,Peoria,2021-01-19,Illinois,Jacob Meyer,199,199.0,199
+B-25841,4371,1852,Electronics,Peoria,2021-01-19,Illinois,Jacob Meyer,200,200.0,200
+B-26032,8346,1176,Electronics,Houston,2020-08-21,Texas,Scott Lewis,201,201.0,201
+B-26032,8346,1176,Electronics,Chicago,2023-04-17,Illinois,Eric Griffith,202,202.0,202
+B-26032,8346,1176,Electronics,San Francisco,2023-12-24,California,Anna Ferguson,203,203.0,203
+B-26032,6218,1125,Furniture,Houston,2020-08-21,Texas,Scott Lewis,204,204.0,204
+B-26032,6218,1125,Furniture,Chicago,2023-04-17,Illinois,Eric Griffith,205,205.0,205
+B-26032,6218,1125,Furniture,San Francisco,2023-12-24,California,Anna Ferguson,206,206.0,206
+B-26032,5167,253,Electronics,Houston,2020-08-21,Texas,Scott Lewis,207,207.0,207
+B-26032,5167,253,Electronics,Chicago,2023-04-17,Illinois,Eric Griffith,208,208.0,208
+B-26032,5167,253,Electronics,San Francisco,2023-12-24,California,Anna Ferguson,209,209.0,209
+B-26032,2799,1239,Furniture,Houston,2020-08-21,Texas,Scott Lewis,210,210.0,210
+B-26032,2799,1239,Furniture,Chicago,2023-04-17,Illinois,Eric Griffith,211,211.0,211
+B-26032,2799,1239,Furniture,San Francisco,2023-12-24,California,Anna Ferguson,212,212.0,212
+B-25171,3234,1029,Office Supplies,Miami,2022-03-20,Florida,David Figueroa,213,213.0,213
+B-26939,4920,775,Furniture,Springfield,2021-08-12,Illinois,Theresa Medina,214,214.0,214
+B-26939,9078,2213,Furniture,Springfield,2021-08-12,Illinois,Theresa Medina,215,215.0,215
+B-26347,8586,3826,Furniture,Miami,2020-12-21,Florida,Mary Smith,216,216.0,216
+B-26347,8586,3826,Furniture,Tampa,2023-07-07,Florida,Lance Cain,217,217.0,217
+B-25388,5047,2211,Furniture,San Francisco,2023-08-13,California,Alexandra Moran,218,218.0,218
+B-25388,5047,2211,Furniture,Chicago,2021-02-04,Illinois,Sara Castro,219,219.0,219
+B-25388,5047,2211,Furniture,Peoria,2022-09-16,Illinois,Shawn Leach,220,220.0,220
+B-25388,5047,2211,Furniture,Buffalo,2022-05-06,New York,Mark Boyle,221,221.0,221
+B-26419,3657,163,Furniture,San Francisco,2021-05-28,California,John Stevens,222,222.0,222
+B-25157,6471,2842,Electronics,Peoria,2024-07-18,Illinois,Lisa Graham,223,223.0,223
+B-25342,949,301,Office Supplies,Cleveland,2024-12-06,Ohio,Nancy Jones,224,224.0,224
+B-25342,6823,771,Office Supplies,Cleveland,2024-12-06,Ohio,Nancy Jones,225,225.0,225
+B-25342,4364,831,Furniture,Cleveland,2024-12-06,Ohio,Nancy Jones,226,226.0,226
+B-26165,6671,2797,Electronics,Peoria,2022-12-12,Illinois,Darryl Robbins,227,227.0,227
+B-26571,7472,1037,Office Supplies,Springfield,2022-10-20,Illinois,Kimberly Smith,228,228.0,228
+B-26571,9548,1806,Electronics,Springfield,2022-10-20,Illinois,Kimberly Smith,229,229.0,229
+B-25400,7759,3741,Electronics,Miami,2021-03-24,Florida,Maria Thomas,230,230.0,230
+B-25400,7759,3741,Electronics,Dallas,2025-01-06,Texas,Nicholas Johnson,231,231.0,231
+B-25400,7521,3457,Office Supplies,Miami,2021-03-24,Florida,Maria Thomas,232,232.0,232
+B-25400,7521,3457,Office Supplies,Dallas,2025-01-06,Texas,Nicholas Johnson,233,233.0,233
+B-25885,9704,4339,Office Supplies,Houston,2021-03-06,Texas,Dawn Howard,234,234.0,234
+B-25885,4948,2356,Electronics,Houston,2021-03-06,Texas,Dawn Howard,235,235.0,235
+B-25885,6435,334,Electronics,Houston,2021-03-06,Texas,Dawn Howard,236,236.0,236
+B-25004,9965,3033,Office Supplies,San Francisco,2020-06-17,California,Jennifer Marshall,237,237.0,237
+B-25004,9965,3033,Office Supplies,Buffalo,2023-09-01,New York,Frank Garcia,238,238.0,238
+B-26213,1523,234,Furniture,Rochester,2023-06-08,New York,Terri Madden,239,239.0,239
+B-26213,9073,424,Electronics,Rochester,2023-06-08,New York,Terri Madden,240,240.0,240
+B-25025,6447,3079,Electronics,Rochester,2021-03-25,New York,James Gutierrez,241,241.0,241
+B-25025,8947,2807,Electronics,Rochester,2021-03-25,New York,James Gutierrez,242,242.0,242
+B-26804,914,400,Office Supplies,Los Angeles,2021-01-03,California,Morgan Sellers,243,243.0,243
+B-26804,1548,666,Office Supplies,Los Angeles,2021-01-03,California,Morgan Sellers,244,244.0,244
+B-26797,2759,1149,Furniture,New York City,2024-12-27,New York,Caitlin Thomas,245,245.0,245
+B-26556,1341,615,Electronics,Orlando,2022-08-12,Florida,Kimberly Greene,246,246.0,246
+B-25861,9851,2669,Electronics,Cleveland,2022-03-28,Ohio,Tammy Anthony,247,247.0,247
+B-25861,9851,2669,Electronics,Buffalo,2023-07-15,New York,Jennifer Chase,248,248.0,248
+B-25861,9851,2669,Electronics,Orlando,2022-09-22,Florida,Cassandra Farley,249,249.0,249
+B-25861,9989,3930,Furniture,Cleveland,2022-03-28,Ohio,Tammy Anthony,250,250.0,250
+B-25861,9989,3930,Furniture,Buffalo,2023-07-15,New York,Jennifer Chase,251,251.0,251
+B-25861,9989,3930,Furniture,Orlando,2022-09-22,Florida,Cassandra Farley,252,252.0,252
+B-25112,7421,958,Furniture,Houston,2022-12-20,Texas,Justin Vasquez,253,253.0,253
+B-25112,7421,958,Furniture,Houston,2022-01-16,Texas,Melissa Morales,254,254.0,254
+B-25112,7421,958,Furniture,Dallas,2023-01-29,Texas,Tyler Thompson,255,255.0,255
+B-25223,3099,479,Office Supplies,Buffalo,2022-01-15,New York,Heidi Davis,256,256.0,256
+B-25223,2521,906,Electronics,Buffalo,2022-01-15,New York,Heidi Davis,257,257.0,257
+B-25714,6962,3429,Electronics,Dallas,2024-03-24,Texas,Charles Lane,258,258.0,258
+B-25714,6962,3429,Electronics,Miami,2025-02-19,Florida,Joyce Good MD,259,259.0,259
+B-26607,1085,301,Furniture,Buffalo,2024-07-13,New York,Maria Miller,260,260.0,260
+B-25038,738,342,Furniture,Cincinnati,2023-04-28,Ohio,Terry Mcdaniel,261,261.0,261
+B-25038,738,342,Furniture,Buffalo,2020-12-05,New York,Lisa Jacobs,262,262.0,262
+B-25038,738,342,Furniture,Cincinnati,2024-05-14,Ohio,Jeff Duncan,263,263.0,263
+B-25038,738,342,Furniture,New York City,2022-01-18,New York,Pamela Jones,264,264.0,264
+B-26672,1366,242,Electronics,Columbus,2023-09-18,Ohio,Renee Robinson,265,265.0,265
+B-26672,1518,155,Office Supplies,Columbus,2023-09-18,Ohio,Renee Robinson,266,266.0,266
+B-25747,2962,1470,Electronics,Buffalo,2021-05-12,New York,Jessica Kidd,267,267.0,267
+B-25747,2962,1470,Electronics,Tampa,2023-09-17,Florida,Nicholas Martin,268,268.0,268
+B-25747,7131,718,Electronics,Buffalo,2021-05-12,New York,Jessica Kidd,269,269.0,269
+B-25747,7131,718,Electronics,Tampa,2023-09-17,Florida,Nicholas Martin,270,270.0,270
+B-25747,4200,855,Office Supplies,Buffalo,2021-05-12,New York,Jessica Kidd,271,271.0,271
+B-25747,4200,855,Office Supplies,Tampa,2023-09-17,Florida,Nicholas Martin,272,272.0,272
+B-26322,5934,1563,Office Supplies,Peoria,2024-09-06,Illinois,David Brown,273,273.0,273
+B-26613,2701,322,Electronics,New York City,2022-06-18,New York,Amber Moore,274,274.0,274
+B-26613,7273,2702,Office Supplies,New York City,2022-06-18,New York,Amber Moore,275,275.0,275
+B-25413,2465,699,Office Supplies,San Francisco,2020-05-22,California,James Williams,276,276.0,276
+B-26466,3479,1087,Office Supplies,Dallas,2024-10-17,Texas,Karina Barr,277,277.0,277
+B-26466,5457,1765,Electronics,Dallas,2024-10-17,Texas,Karina Barr,278,278.0,278
+B-26610,4957,1152,Office Supplies,Cleveland,2022-03-22,Ohio,Meghan Rush,279,279.0,279
+B-26209,4404,858,Office Supplies,Columbus,2024-03-17,Ohio,Bianca Brown,280,280.0,280
+B-26209,8776,2529,Furniture,Columbus,2024-03-17,Ohio,Bianca Brown,281,281.0,281
+B-26622,9536,1437,Electronics,Orlando,2020-04-02,Florida,Timothy Jensen,282,282.0,282
+B-26622,2225,589,Furniture,Orlando,2020-04-02,Florida,Timothy Jensen,283,283.0,283
+B-26601,9574,4045,Furniture,San Francisco,2024-03-13,California,Melinda Montoya,284,284.0,284
+B-26601,4382,482,Electronics,San Francisco,2024-03-13,California,Melinda Montoya,285,285.0,285
+B-25894,8200,257,Electronics,Cincinnati,2023-03-21,Ohio,Tammy Bell,286,286.0,286
+B-25894,9316,3003,Furniture,Cincinnati,2023-03-21,Ohio,Tammy Bell,287,287.0,287
+B-25894,6379,3128,Electronics,Cincinnati,2023-03-21,Ohio,Tammy Bell,288,288.0,288
+B-26969,3348,568,Office Supplies,Cleveland,2024-03-02,Ohio,Connie Richards,289,289.0,289
+B-26969,3348,568,Office Supplies,Rochester,2021-04-30,New York,Peter Ward,290,290.0,290
+B-26969,8856,2020,Office Supplies,Cleveland,2024-03-02,Ohio,Connie Richards,291,291.0,291
+B-26969,8856,2020,Office Supplies,Rochester,2021-04-30,New York,Peter Ward,292,292.0,292
+B-26312,1760,619,Furniture,Columbus,2021-09-15,Ohio,Jonathan Alvarez,293,293.0,293
+B-26312,1760,619,Furniture,Houston,2023-01-28,Texas,Becky Hodges,294,294.0,294
+B-26312,6351,986,Electronics,Columbus,2021-09-15,Ohio,Jonathan Alvarez,295,295.0,295
+B-26312,6351,986,Electronics,Houston,2023-01-28,Texas,Becky Hodges,296,296.0,296
+B-26837,869,373,Office Supplies,New York City,2021-07-08,New York,Larry Hill,297,297.0,297
+B-26837,869,373,Office Supplies,Cleveland,2020-04-08,Ohio,Amber Moon,298,298.0,298
+B-26837,1486,114,Furniture,New York City,2021-07-08,New York,Larry Hill,299,299.0,299
+B-26837,1486,114,Furniture,Cleveland,2020-04-08,Ohio,Amber Moon,300,300.0,300
+B-26166,2999,145,Office Supplies,Chicago,2022-08-23,Illinois,Cynthia Wilcox,301,301.0,301
+B-26166,5142,1916,Office Supplies,Chicago,2022-08-23,Illinois,Cynthia Wilcox,302,302.0,302
+B-25695,1239,575,Electronics,Rochester,2022-12-17,New York,Rebecca Wright,303,303.0,303
+B-25695,1239,575,Electronics,Springfield,2022-06-08,Illinois,Sarah Flores,304,304.0,304
+B-25695,1262,515,Electronics,Rochester,2022-12-17,New York,Rebecca Wright,305,305.0,305
+B-25695,1262,515,Electronics,Springfield,2022-06-08,Illinois,Sarah Flores,306,306.0,306
+B-26068,1033,254,Furniture,Rochester,2020-08-28,New York,Carol Norman,307,307.0,307
+B-26023,1518,159,Electronics,San Diego,2020-09-26,California,Stephanie Gardner,308,308.0,308
+B-26677,8581,2444,Office Supplies,Peoria,2020-12-13,Illinois,Philip Baker,309,309.0,309
+B-26677,8581,2444,Office Supplies,Orlando,2020-11-19,Florida,Randall Dennis,310,310.0,310
+B-25701,1167,463,Office Supplies,Austin,2023-09-13,Texas,Suzanne Cross,311,311.0,311
+B-25701,2841,803,Electronics,Austin,2023-09-13,Texas,Suzanne Cross,312,312.0,312
+B-25701,5680,2159,Furniture,Austin,2023-09-13,Texas,Suzanne Cross,313,313.0,313
+B-26523,8204,2382,Office Supplies,Chicago,2020-03-31,Illinois,Jasmine Delgado,314,314.0,314
+B-26523,8204,2382,Office Supplies,Buffalo,2020-10-20,New York,Kristen Harper,315,315.0,315
+B-26523,2850,904,Electronics,Chicago,2020-03-31,Illinois,Jasmine Delgado,316,316.0,316
+B-26523,2850,904,Electronics,Buffalo,2020-10-20,New York,Kristen Harper,317,317.0,317
+B-25880,907,391,Office Supplies,New York City,2023-08-04,New York,Kaitlyn Graham MD,318,318.0,318
+B-26898,2174,265,Office Supplies,Cincinnati,2022-04-11,Ohio,Dean Avila,319,319.0,319
+B-26898,8541,2029,Electronics,Cincinnati,2022-04-11,Ohio,Dean Avila,320,320.0,320
+B-26898,1931,551,Furniture,Cincinnati,2022-04-11,Ohio,Dean Avila,321,321.0,321
+B-26035,1281,340,Electronics,Austin,2021-12-31,Texas,Megan Mack,322,322.0,322
+B-26035,2404,253,Electronics,Austin,2021-12-31,Texas,Megan Mack,323,323.0,323
+B-25573,2119,196,Furniture,Los Angeles,2020-08-16,California,Heather Johnson,324,324.0,324
+B-25463,3137,571,Office Supplies,Chicago,2025-02-02,Illinois,Tina Davies,325,325.0,325
+B-26277,2323,727,Furniture,Dallas,2022-02-24,Texas,Matthew Harris,326,326.0,326
+B-26277,1368,406,Furniture,Dallas,2022-02-24,Texas,Matthew Harris,327,327.0,327
+B-26508,9204,3289,Electronics,Miami,2024-02-25,Florida,Christopher Kirk,328,328.0,328
+B-26508,9204,3289,Electronics,Miami,2021-06-15,Florida,Eric Stevens,329,329.0,329
+B-26508,9894,3698,Office Supplies,Miami,2024-02-25,Florida,Christopher Kirk,330,330.0,330
+B-26508,9894,3698,Office Supplies,Miami,2021-06-15,Florida,Eric Stevens,331,331.0,331
+B-26723,5322,1423,Furniture,Houston,2022-12-08,Texas,James Dickerson,332,332.0,332
+B-26723,5322,1423,Furniture,Dallas,2023-12-09,Texas,James Jones,333,333.0,333
+B-25526,2666,559,Furniture,Cleveland,2022-07-16,Ohio,Hannah Hendricks,334,334.0,334
+B-25645,8383,937,Furniture,Orlando,2024-05-05,Florida,Brett Mullins,335,335.0,335
+B-25757,7560,821,Office Supplies,Chicago,2021-10-04,Illinois,Ms. Kim Jordan,336,336.0,336
+B-26716,1314,490,Furniture,Buffalo,2021-11-20,New York,Marcus Santiago,337,337.0,337
+B-26716,4390,179,Furniture,Buffalo,2021-11-20,New York,Marcus Santiago,338,338.0,338
+B-26716,1150,58,Office Supplies,Buffalo,2021-11-20,New York,Marcus Santiago,339,339.0,339
+B-25424,1574,258,Office Supplies,San Diego,2020-09-15,California,Jill Perez,340,340.0,340
+B-25424,5635,318,Office Supplies,San Diego,2020-09-15,California,Jill Perez,341,341.0,341
+B-25424,6515,961,Furniture,San Diego,2020-09-15,California,Jill Perez,342,342.0,342
+B-26453,1231,214,Electronics,Columbus,2023-01-17,Ohio,Courtney Williams,343,343.0,343
+B-26453,1231,214,Electronics,Rochester,2020-06-16,New York,Jordan Hahn,344,344.0,344
+B-26425,6891,2529,Office Supplies,Cleveland,2024-05-01,Ohio,William Cook,345,345.0,345
+B-25843,7524,2308,Electronics,Austin,2023-12-07,Texas,Stephanie Hayes,346,346.0,346
+B-25843,6864,1824,Electronics,Austin,2023-12-07,Texas,Stephanie Hayes,347,347.0,347
+B-25486,4215,432,Furniture,Columbus,2024-02-02,Ohio,Melissa Wise,348,348.0,348
+B-26975,622,218,Furniture,San Diego,2024-06-23,California,Elizabeth Gonzalez,349,349.0,349
+B-26975,1755,495,Office Supplies,San Diego,2024-06-23,California,Elizabeth Gonzalez,350,350.0,350
+B-26975,8020,3898,Electronics,San Diego,2024-06-23,California,Elizabeth Gonzalez,351,351.0,351
+B-26890,7333,1576,Electronics,Buffalo,2024-06-07,New York,Mr. Eric Lopez,352,352.0,352
+B-26125,7690,1134,Electronics,Rochester,2023-10-13,New York,Benjamin Higgins,353,353.0,353
+B-26125,912,246,Furniture,Rochester,2023-10-13,New York,Benjamin Higgins,354,354.0,354
+B-26489,2791,894,Electronics,Austin,2022-10-08,Texas,Brett Sutton,355,355.0,355
+B-26489,2791,894,Electronics,Cincinnati,2023-10-27,Ohio,Anna Blackburn,356,356.0,356
+B-26489,2791,894,Electronics,Dallas,2021-02-09,Texas,Michelle Bailey,357,357.0,357
+B-26489,6223,1478,Furniture,Austin,2022-10-08,Texas,Brett Sutton,358,358.0,358
+B-26489,6223,1478,Furniture,Cincinnati,2023-10-27,Ohio,Anna Blackburn,359,359.0,359
+B-26489,6223,1478,Furniture,Dallas,2021-02-09,Texas,Michelle Bailey,360,360.0,360
+B-26489,8943,3121,Furniture,Austin,2022-10-08,Texas,Brett Sutton,361,361.0,361
+B-26489,8943,3121,Furniture,Cincinnati,2023-10-27,Ohio,Anna Blackburn,362,362.0,362
+B-26489,8943,3121,Furniture,Dallas,2021-02-09,Texas,Michelle Bailey,363,363.0,363
+B-26489,3297,102,Electronics,Austin,2022-10-08,Texas,Brett Sutton,364,364.0,364
+B-26489,3297,102,Electronics,Cincinnati,2023-10-27,Ohio,Anna Blackburn,365,365.0,365
+B-26489,3297,102,Electronics,Dallas,2021-02-09,Texas,Michelle Bailey,366,366.0,366
+B-26043,8769,1989,Office Supplies,Chicago,2020-11-03,Illinois,Sara Peterson,367,367.0,367
+B-26557,9057,1888,Electronics,Orlando,2022-05-30,Florida,Katherine Williams,368,368.0,368
+B-26557,6864,3275,Furniture,Orlando,2022-05-30,Florida,Katherine Williams,369,369.0,369
+B-26557,9200,809,Electronics,Orlando,2022-05-30,Florida,Katherine Williams,370,370.0,370
+B-25243,6113,2508,Electronics,Orlando,2024-06-16,Florida,Cory Evans,371,371.0,371
+B-25243,7733,2784,Furniture,Orlando,2024-06-16,Florida,Cory Evans,372,372.0,372
+B-25243,8524,154,Furniture,Orlando,2024-06-16,Florida,Cory Evans,373,373.0,373
+B-25243,6187,2344,Furniture,Orlando,2024-06-16,Florida,Cory Evans,374,374.0,374
+B-26932,4364,148,Furniture,Cincinnati,2022-07-15,Ohio,Michael Rodriguez,375,375.0,375
+B-26932,736,286,Office Supplies,Cincinnati,2022-07-15,Ohio,Michael Rodriguez,376,376.0,376
+B-25241,9905,633,Office Supplies,Dallas,2021-07-18,Texas,John Munoz,377,377.0,377
+B-25241,9905,633,Office Supplies,Tampa,2021-10-02,Florida,David Clark,378,378.0,378
+B-25044,2493,1221,Office Supplies,Springfield,2024-04-16,Illinois,April Welch,379,379.0,379
+B-25044,9849,963,Office Supplies,Springfield,2024-04-16,Illinois,April Welch,380,380.0,380
+B-26137,3423,804,Electronics,Peoria,2020-07-09,Illinois,Alan Livingston,381,381.0,381
+B-26137,3423,804,Electronics,Dallas,2020-07-25,Texas,Angela Jackson,382,382.0,382
+B-26137,3423,804,Electronics,Austin,2024-01-24,Texas,Amy Williams,383,383.0,383
+B-26137,3423,804,Electronics,Dallas,2020-05-04,Texas,Laura Jordan,384,384.0,384
+B-26137,3423,804,Electronics,Cincinnati,2021-11-13,Ohio,Richard Maynard,385,385.0,385
+B-25545,3900,115,Furniture,Springfield,2023-10-07,Illinois,Lawrence Oliver,386,386.0,386
+B-26800,8568,2419,Electronics,Rochester,2021-10-23,New York,Anthony Williams,387,387.0,387
+B-26800,3283,71,Office Supplies,Rochester,2021-10-23,New York,Anthony Williams,388,388.0,388
+B-26987,7643,3720,Electronics,Dallas,2022-07-18,Texas,Lynn Matthews,389,389.0,389
+B-26144,3461,1537,Furniture,Chicago,2024-08-23,Illinois,Andrew Griffin,390,390.0,390
+B-26144,5714,1438,Electronics,Chicago,2024-08-23,Illinois,Andrew Griffin,391,391.0,391
+B-26144,3853,1457,Office Supplies,Chicago,2024-08-23,Illinois,Andrew Griffin,392,392.0,392
+B-25406,6016,431,Office Supplies,Chicago,2020-10-28,Illinois,Megan Williams,393,393.0,393
+B-25658,1290,204,Office Supplies,Buffalo,2024-06-15,New York,Alison Martin,394,394.0,394
+B-25658,1290,204,Office Supplies,San Francisco,2024-12-19,California,Samuel Wallace,395,395.0,395
+B-25733,4569,1693,Electronics,Springfield,2020-09-04,Illinois,Manuel Stark,396,396.0,396
+B-26993,3083,1151,Furniture,Orlando,2022-04-16,Florida,William Villarreal,397,397.0,397
+B-26964,3522,898,Office Supplies,Cleveland,2024-08-29,Ohio,Brandon Kirk,398,398.0,398
+B-26964,3522,898,Office Supplies,Los Angeles,2022-01-14,California,Abigail Brown,399,399.0,399
+B-26955,7301,3602,Office Supplies,Houston,2024-04-07,Texas,Kristine Carter,400,400.0,400
+B-26059,4462,121,Electronics,Springfield,2022-04-24,Illinois,Wesley Deleon,401,401.0,401
+B-26059,6212,1881,Electronics,Springfield,2022-04-24,Illinois,Wesley Deleon,402,402.0,402
+B-26806,4027,1386,Furniture,Tampa,2020-08-27,Florida,Laura Cole,403,403.0,403
+B-26299,1676,330,Electronics,Cleveland,2023-03-01,Ohio,Lauren Harris,404,404.0,404
+B-26299,3927,1133,Furniture,Cleveland,2023-03-01,Ohio,Lauren Harris,405,405.0,405
+B-26299,2776,887,Electronics,Cleveland,2023-03-01,Ohio,Lauren Harris,406,406.0,406
+B-26743,7684,1157,Furniture,Chicago,2020-10-02,Illinois,Cameron Miller,407,407.0,407
+B-26743,7684,1157,Furniture,Buffalo,2020-06-23,New York,Jacob Carpenter,408,408.0,408
+B-26743,7684,1157,Furniture,Columbus,2023-08-21,Ohio,Pamela Callahan DVM,409,409.0,409
+B-26757,6008,2498,Electronics,Miami,2022-07-16,Florida,William Ruiz,410,410.0,410
+B-26772,7344,2598,Furniture,Dallas,2022-08-01,Texas,Paula Marshall,411,411.0,411
+B-26088,6932,3218,Office Supplies,Orlando,2020-07-16,Florida,Natalie Cox,412,412.0,412
+B-26319,7748,1706,Electronics,Cincinnati,2020-05-02,Ohio,Andrew Fernandez,413,413.0,413
+B-26319,6381,2763,Office Supplies,Cincinnati,2020-05-02,Ohio,Andrew Fernandez,414,414.0,414
+B-26319,992,64,Electronics,Cincinnati,2020-05-02,Ohio,Andrew Fernandez,415,415.0,415
+B-25364,8649,2631,Electronics,San Francisco,2024-01-10,California,Alisha Saunders,416,416.0,416
+B-25364,8649,2631,Electronics,Rochester,2020-09-30,New York,Travis Chandler DDS,417,417.0,417
+B-25655,4099,52,Electronics,New York City,2022-03-28,New York,Russell Austin,418,418.0,418
+B-26864,2539,324,Electronics,San Francisco,2021-01-30,California,Collin Cameron,419,419.0,419
+B-26019,9845,3062,Office Supplies,Orlando,2025-03-14,Florida,Elizabeth Hernandez,420,420.0,420
+B-25849,2901,1411,Office Supplies,Austin,2021-10-26,Texas,William Russell,421,421.0,421
+B-25849,2901,1411,Office Supplies,Los Angeles,2023-01-11,California,Sheri Berg,422,422.0,422
+B-25849,6934,1152,Office Supplies,Austin,2021-10-26,Texas,William Russell,423,423.0,423
+B-25849,6934,1152,Office Supplies,Los Angeles,2023-01-11,California,Sheri Berg,424,424.0,424
+B-25829,9640,2606,Furniture,Peoria,2021-10-31,Illinois,Anthony Barnett,425,425.0,425
+B-26065,7930,1981,Furniture,Cleveland,2023-05-04,Ohio,Kaitlyn Flores,426,426.0,426
+B-26065,7930,1981,Furniture,Springfield,2024-08-09,Illinois,Rebecca Owen,427,427.0,427
+B-25267,9894,829,Office Supplies,San Diego,2022-08-21,California,Michael Bell,428,428.0,428
+B-25267,4534,2235,Furniture,San Diego,2022-08-21,California,Michael Bell,429,429.0,429
+B-25972,4911,186,Electronics,Buffalo,2022-06-19,New York,Willie Huynh,430,430.0,430
+B-25972,531,189,Furniture,Buffalo,2022-06-19,New York,Willie Huynh,431,431.0,431
+B-25511,9707,3483,Electronics,Peoria,2025-01-29,Illinois,Samuel Hayes,432,432.0,432
+B-25511,8521,2584,Office Supplies,Peoria,2025-01-29,Illinois,Samuel Hayes,433,433.0,433
+B-25744,8438,3427,Office Supplies,Buffalo,2022-01-14,New York,Sherry Tran,434,434.0,434
+B-25744,1689,109,Electronics,Buffalo,2022-01-14,New York,Sherry Tran,435,435.0,435
+B-25744,3936,1626,Office Supplies,Buffalo,2022-01-14,New York,Sherry Tran,436,436.0,436
+B-26805,7664,1753,Electronics,Cincinnati,2023-06-15,Ohio,Heather Gray,437,437.0,437
+B-25620,721,258,Electronics,Peoria,2023-10-18,Illinois,Benjamin Meadows,438,438.0,438
+B-25620,721,258,Electronics,Buffalo,2022-06-13,New York,Micheal Graham,439,439.0,439
+B-25620,8364,3055,Electronics,Peoria,2023-10-18,Illinois,Benjamin Meadows,440,440.0,440
+B-25620,8364,3055,Electronics,Buffalo,2022-06-13,New York,Micheal Graham,441,441.0,441
+B-25620,5234,2021,Furniture,Peoria,2023-10-18,Illinois,Benjamin Meadows,442,442.0,442
+B-25620,5234,2021,Furniture,Buffalo,2022-06-13,New York,Micheal Graham,443,443.0,443
+B-25325,3944,1559,Electronics,San Francisco,2024-06-12,California,Jean Jackson,444,444.0,444
+B-25325,6711,1045,Office Supplies,San Francisco,2024-06-12,California,Jean Jackson,445,445.0,445
+B-25325,5031,714,Furniture,San Francisco,2024-06-12,California,Jean Jackson,446,446.0,446
+B-25325,6295,2469,Office Supplies,San Francisco,2024-06-12,California,Jean Jackson,447,447.0,447
+B-25131,9654,4111,Office Supplies,San Francisco,2022-06-27,California,Timothy Murphy,448,448.0,448
+B-25131,3112,1065,Office Supplies,San Francisco,2022-06-27,California,Timothy Murphy,449,449.0,449
+B-26654,7838,1142,Electronics,San Francisco,2021-02-18,California,Mrs. Jennifer Lewis,450,450.0,450
+B-26654,9300,3146,Electronics,San Francisco,2021-02-18,California,Mrs. Jennifer Lewis,451,451.0,451
+B-26654,1733,133,Office Supplies,San Francisco,2021-02-18,California,Mrs. Jennifer Lewis,452,452.0,452
+B-26195,874,235,Office Supplies,Rochester,2023-05-29,New York,Bryan Brown,453,453.0,453
+B-26195,874,235,Office Supplies,Miami,2021-06-04,Florida,Christopher Johnson,454,454.0,454
+B-25842,1248,584,Office Supplies,Columbus,2024-01-22,Ohio,Christina Conner,455,455.0,455
+B-25842,1248,584,Office Supplies,San Francisco,2022-12-27,California,Luis Luna,456,456.0,456
+B-25842,3669,154,Office Supplies,Columbus,2024-01-22,Ohio,Christina Conner,457,457.0,457
+B-25842,3669,154,Office Supplies,San Francisco,2022-12-27,California,Luis Luna,458,458.0,458
+B-25842,514,109,Office Supplies,Columbus,2024-01-22,Ohio,Christina Conner,459,459.0,459
+B-25842,514,109,Office Supplies,San Francisco,2022-12-27,California,Luis Luna,460,460.0,460
+B-25851,3273,85,Electronics,Cincinnati,2024-03-30,Ohio,Julie Chavez,461,461.0,461
+B-25427,5035,2008,Furniture,Miami,2020-04-04,Florida,Richard Blair,462,462.0,462
+B-25427,7702,60,Electronics,Miami,2020-04-04,Florida,Richard Blair,463,463.0,463
+B-25427,9884,4446,Electronics,Miami,2020-04-04,Florida,Richard Blair,464,464.0,464
+B-26224,5564,175,Electronics,Chicago,2023-01-22,Illinois,Mitchell Lester,465,465.0,465
+B-26224,5564,175,Electronics,Houston,2022-04-12,Texas,Mr. John Tyler PhD,466,466.0,466
+B-26224,5564,175,Electronics,Miami,2023-12-13,Florida,Juan Kelly,467,467.0,467
+B-26224,3953,1776,Electronics,Chicago,2023-01-22,Illinois,Mitchell Lester,468,468.0,468
+B-26224,3953,1776,Electronics,Houston,2022-04-12,Texas,Mr. John Tyler PhD,469,469.0,469
+B-26224,3953,1776,Electronics,Miami,2023-12-13,Florida,Juan Kelly,470,470.0,470
+B-26896,6488,1591,Electronics,Dallas,2023-05-24,Texas,Morgan Mccarthy,471,471.0,471
+B-26896,6488,1591,Electronics,Houston,2020-11-29,Texas,Morgan Sullivan,472,472.0,472
+B-26469,7856,3699,Electronics,Orlando,2021-03-24,Florida,Eric Clark,473,473.0,473
+B-26469,1165,51,Office Supplies,Orlando,2021-03-24,Florida,Eric Clark,474,474.0,474
+B-26219,9386,2555,Office Supplies,San Diego,2020-08-19,California,Mark Padilla,475,475.0,475
+B-26219,9386,2555,Office Supplies,Cleveland,2022-10-20,Ohio,Anthony Lane,476,476.0,476
+B-26119,3956,142,Office Supplies,Tampa,2023-09-20,Florida,Jeffrey Henderson,477,477.0,477
+B-26119,3956,142,Office Supplies,Dallas,2024-12-26,Texas,Michelle Hardy,478,478.0,478
+B-26119,6449,2628,Furniture,Tampa,2023-09-20,Florida,Jeffrey Henderson,479,479.0,479
+B-26119,6449,2628,Furniture,Dallas,2024-12-26,Texas,Michelle Hardy,480,480.0,480
+B-26988,6255,437,Office Supplies,Rochester,2021-12-03,New York,Ms. Barbara Cervantes,481,481.0,481
+B-26988,2109,681,Electronics,Rochester,2021-12-03,New York,Ms. Barbara Cervantes,482,482.0,482
+B-25596,6707,1041,Electronics,Austin,2021-09-14,Texas,Steven Proctor,483,483.0,483
+B-26845,7633,184,Office Supplies,Springfield,2021-09-30,Illinois,Shannon Patterson,484,484.0,484
+B-25099,975,224,Office Supplies,San Diego,2021-12-22,California,William Valdez,485,485.0,485
+B-25099,4492,1450,Furniture,San Diego,2021-12-22,California,William Valdez,486,486.0,486
+B-25099,7957,2834,Furniture,San Diego,2021-12-22,California,William Valdez,487,487.0,487
+B-26153,4906,975,Furniture,Houston,2022-05-18,Texas,Laura Yu,488,488.0,488
+B-25060,1379,250,Office Supplies,Buffalo,2020-10-08,New York,Jonathan Mcmillan,489,489.0,489
+B-25060,4244,340,Electronics,Buffalo,2020-10-08,New York,Jonathan Mcmillan,490,490.0,490
+B-26572,5911,2333,Furniture,San Diego,2022-08-20,California,Austin Davis,491,491.0,491
+B-26572,5911,2333,Furniture,San Francisco,2024-11-25,California,Mark Roy,492,492.0,492
+B-26572,1818,738,Office Supplies,San Diego,2022-08-20,California,Austin Davis,493,493.0,493
+B-26572,1818,738,Office Supplies,San Francisco,2024-11-25,California,Mark Roy,494,494.0,494
+B-25919,2140,970,Office Supplies,San Diego,2020-09-30,California,Jillian Williams,495,495.0,495
+B-25919,2140,970,Office Supplies,Orlando,2025-02-20,Florida,Rebekah Carter,496,496.0,496
+B-25919,2140,970,Office Supplies,San Francisco,2022-03-20,California,Jonathan Reed,497,497.0,497
+B-25919,2670,1026,Electronics,San Diego,2020-09-30,California,Jillian Williams,498,498.0,498
+B-25919,2670,1026,Electronics,Orlando,2025-02-20,Florida,Rebekah Carter,499,499.0,499
+B-25919,2670,1026,Electronics,San Francisco,2022-03-20,California,Jonathan Reed,500,500.0,500
+B-26978,1108,167,Electronics,Springfield,2025-03-07,Illinois,Roger Harris,501,501.0,501
+B-26978,9776,3750,Office Supplies,Springfield,2025-03-07,Illinois,Roger Harris,502,502.0,502
+B-26978,535,72,Furniture,Springfield,2025-03-07,Illinois,Roger Harris,503,503.0,503
+B-26554,7564,3463,Office Supplies,Tampa,2024-06-16,Florida,Louis Jimenez,504,504.0,504
+B-26554,7564,3463,Office Supplies,Peoria,2020-11-21,Illinois,Jessica Jones,505,505.0,505
+B-26554,7564,3463,Office Supplies,Miami,2024-10-01,Florida,Renee Gomez,506,506.0,506
+B-26554,7564,3463,Office Supplies,Houston,2024-07-01,Texas,Connie Olson,507,507.0,507
+B-26554,3409,1605,Electronics,Tampa,2024-06-16,Florida,Louis Jimenez,508,508.0,508
+B-26554,3409,1605,Electronics,Peoria,2020-11-21,Illinois,Jessica Jones,509,509.0,509
+B-26554,3409,1605,Electronics,Miami,2024-10-01,Florida,Renee Gomez,510,510.0,510
+B-26554,3409,1605,Electronics,Houston,2024-07-01,Texas,Connie Olson,511,511.0,511
+B-26883,9751,2459,Office Supplies,Buffalo,2020-11-23,New York,Christian Jones,512,512.0,512
+B-25423,6385,2656,Electronics,Orlando,2023-03-18,Florida,Matthew Kelley,513,513.0,513
+B-25423,6385,2656,Electronics,Tampa,2022-10-19,Florida,Candace Martinez,514,514.0,514
+B-26324,6355,1335,Electronics,Austin,2023-08-31,Texas,Jacob Mann,515,515.0,515
+B-26324,6355,1335,Electronics,Austin,2021-06-06,Texas,Keith Reese,516,516.0,516
+B-26945,7377,320,Electronics,Austin,2022-12-21,Texas,Aaron Jones,517,517.0,517
+B-26945,2054,371,Office Supplies,Austin,2022-12-21,Texas,Aaron Jones,518,518.0,518
+B-26405,7497,319,Furniture,Peoria,2024-02-12,Illinois,Christopher Brooks,519,519.0,519
+B-26046,2565,983,Electronics,Miami,2022-12-05,Florida,Charles Moore,520,520.0,520
+B-26046,5024,1544,Office Supplies,Miami,2022-12-05,Florida,Charles Moore,521,521.0,521
+B-25746,8243,1346,Office Supplies,Houston,2021-04-04,Texas,Manuel Walls,522,522.0,522
+B-25232,7792,1403,Office Supplies,Peoria,2021-02-12,Illinois,Darren Moore,523,523.0,523
+B-25232,7792,1403,Office Supplies,Rochester,2022-12-27,New York,Stephanie Thomas,524,524.0,524
+B-25232,7792,1403,Office Supplies,San Diego,2024-01-19,California,Kristy Hernandez,525,525.0,525
+B-25232,2346,388,Furniture,Peoria,2021-02-12,Illinois,Darren Moore,526,526.0,526
+B-25232,2346,388,Furniture,Rochester,2022-12-27,New York,Stephanie Thomas,527,527.0,527
+B-25232,2346,388,Furniture,San Diego,2024-01-19,California,Kristy Hernandez,528,528.0,528
+B-25591,7346,1043,Furniture,Columbus,2022-12-25,Ohio,Randy Johnson,529,529.0,529
+B-25591,9770,4132,Electronics,Columbus,2022-12-25,Ohio,Randy Johnson,530,530.0,530
+B-25591,7179,683,Electronics,Columbus,2022-12-25,Ohio,Randy Johnson,531,531.0,531
+B-26325,5449,2389,Electronics,Miami,2022-10-06,Florida,James Benitez,532,532.0,532
+B-25251,2895,104,Furniture,Buffalo,2020-04-27,New York,Donald York,533,533.0,533
+B-25251,2895,104,Furniture,Houston,2024-05-13,Texas,Tiffany Parker,534,534.0,534
+B-25251,697,116,Furniture,Buffalo,2020-04-27,New York,Donald York,535,535.0,535
+B-25251,697,116,Furniture,Houston,2024-05-13,Texas,Tiffany Parker,536,536.0,536
+B-25464,6145,1414,Furniture,Los Angeles,2020-10-23,California,Melissa Mcknight,537,537.0,537
+B-25464,2504,440,Electronics,Los Angeles,2020-10-23,California,Melissa Mcknight,538,538.0,538
+B-25464,3124,138,Electronics,Los Angeles,2020-10-23,California,Melissa Mcknight,539,539.0,539
+B-26678,6934,1226,Electronics,Cincinnati,2021-06-11,Ohio,Mr. Jack Mercado,540,540.0,540
+B-26678,6934,1226,Electronics,Rochester,2021-09-08,New York,Christian Jones,541,541.0,541
+B-25962,4202,1171,Office Supplies,Peoria,2022-11-23,Illinois,Rachel Fisher,542,542.0,542
+B-25962,4202,1171,Office Supplies,Rochester,2022-10-31,New York,Donald Moore,543,543.0,543
+B-25962,4202,1171,Office Supplies,Tampa,2023-11-06,Florida,William Wu,544,544.0,544
+B-25962,4202,1171,Office Supplies,Houston,2023-11-12,Texas,Jesus Zuniga,545,545.0,545
+B-26586,2239,828,Electronics,Los Angeles,2023-06-26,California,Michael Gallegos,546,546.0,546
+B-26586,2239,828,Electronics,Chicago,2023-09-30,Illinois,Robert Daniels,547,547.0,547
+B-26586,2450,1002,Electronics,Los Angeles,2023-06-26,California,Michael Gallegos,548,548.0,548
+B-26586,2450,1002,Electronics,Chicago,2023-09-30,Illinois,Robert Daniels,549,549.0,549
+B-26841,9827,4208,Furniture,New York City,2020-09-12,New York,Jill Jones,550,550.0,550
+B-26841,8077,240,Furniture,New York City,2020-09-12,New York,Jill Jones,551,551.0,551
+B-26284,5152,2045,Electronics,Springfield,2020-11-27,Illinois,Elizabeth Miller,552,552.0,552
+B-26284,5152,2045,Electronics,Los Angeles,2022-08-25,California,Sabrina Clark,553,553.0,553
+B-26284,5152,2045,Electronics,Chicago,2023-08-23,Illinois,Larry Casey,554,554.0,554
+B-26284,5152,2045,Electronics,Rochester,2023-10-11,New York,Daniel Burns,555,555.0,555
+B-26478,2542,190,Office Supplies,Houston,2022-04-21,Texas,James Tanner,556,556.0,556
+B-26679,8102,1800,Office Supplies,San Francisco,2023-09-14,California,Leonard Gonzalez,557,557.0,557
+B-26679,8102,1800,Office Supplies,Buffalo,2020-04-29,New York,Richard Lee,558,558.0,558
+B-26679,8102,1800,Office Supplies,Cleveland,2020-12-15,Ohio,Matthew Schroeder,559,559.0,559
+B-26679,3234,1274,Furniture,San Francisco,2023-09-14,California,Leonard Gonzalez,560,560.0,560
+B-26679,3234,1274,Furniture,Buffalo,2020-04-29,New York,Richard Lee,561,561.0,561
+B-26679,3234,1274,Furniture,Cleveland,2020-12-15,Ohio,Matthew Schroeder,562,562.0,562
+B-26397,6200,2321,Furniture,Los Angeles,2024-07-11,California,Marcus Flores,563,563.0,563
+B-26397,6200,2321,Furniture,Miami,2024-09-21,Florida,Tonya Long,564,564.0,564
+B-25957,4470,413,Electronics,Los Angeles,2025-02-02,California,Michael Chambers,565,565.0,565
+B-26916,916,362,Office Supplies,Springfield,2022-10-21,Illinois,Kaylee Glover,566,566.0,566
+B-26916,916,362,Office Supplies,San Francisco,2020-10-21,California,Pamela Patterson,567,567.0,567
+B-26916,1165,302,Furniture,Springfield,2022-10-21,Illinois,Kaylee Glover,568,568.0,568
+B-26916,1165,302,Furniture,San Francisco,2020-10-21,California,Pamela Patterson,569,569.0,569
+B-26916,7846,677,Furniture,Springfield,2022-10-21,Illinois,Kaylee Glover,570,570.0,570
+B-26916,7846,677,Furniture,San Francisco,2020-10-21,California,Pamela Patterson,571,571.0,571
+B-25925,3022,384,Office Supplies,Austin,2022-01-11,Texas,Ronald Mckinney,572,572.0,572
+B-25925,3022,384,Office Supplies,Chicago,2021-02-17,Illinois,James Hart,573,573.0,573
+B-25925,5266,1111,Electronics,Austin,2022-01-11,Texas,Ronald Mckinney,574,574.0,574
+B-25925,5266,1111,Electronics,Chicago,2021-02-17,Illinois,James Hart,575,575.0,575
+B-25602,4853,1764,Office Supplies,Orlando,2021-11-06,Florida,Rhonda Harris,576,576.0,576
+B-25602,4853,1764,Office Supplies,Houston,2022-08-30,Texas,Randy Fisher,577,577.0,577
+B-26592,9832,1270,Office Supplies,San Francisco,2022-10-07,California,James Hernandez,578,578.0,578
+B-26592,796,153,Office Supplies,San Francisco,2022-10-07,California,James Hernandez,579,579.0,579
+B-26251,883,127,Furniture,San Francisco,2023-06-04,California,Brenda Murphy,580,580.0,580
+B-26251,4539,1155,Furniture,San Francisco,2023-06-04,California,Brenda Murphy,581,581.0,581
+B-26251,9659,2226,Office Supplies,San Francisco,2023-06-04,California,Brenda Murphy,582,582.0,582
+B-25979,9562,325,Electronics,San Diego,2022-05-13,California,Andrew Kirby,583,583.0,583
+B-25437,4688,1841,Electronics,San Francisco,2023-01-23,California,Justin Thomas,584,584.0,584
+B-25437,4688,1841,Electronics,San Diego,2021-07-25,California,Jillian Johnson MD,585,585.0,585
+B-26986,7900,482,Electronics,Columbus,2025-03-08,Ohio,William Martin,586,586.0,586
+B-25990,6967,3257,Furniture,Cincinnati,2022-12-25,Ohio,Mark Dixon,587,587.0,587
+B-25990,1091,277,Office Supplies,Cincinnati,2022-12-25,Ohio,Mark Dixon,588,588.0,588
+B-25990,6027,1530,Office Supplies,Cincinnati,2022-12-25,Ohio,Mark Dixon,589,589.0,589
+B-25222,4852,218,Furniture,Dallas,2024-04-24,Texas,Alicia Allen,590,590.0,590
+B-25222,4852,218,Furniture,Tampa,2021-12-24,Florida,Cynthia Meyer,591,591.0,591
+B-25222,4852,218,Furniture,Springfield,2023-09-07,Illinois,Brandon Norton,592,592.0,592
+B-26402,4314,1453,Furniture,Tampa,2021-08-10,Florida,Christina Scott,593,593.0,593
+B-26792,3288,1477,Office Supplies,Austin,2024-05-26,Texas,Andrew Macias,594,594.0,594
+B-26792,3288,1477,Office Supplies,Springfield,2022-02-19,Illinois,Alejandro Williams,595,595.0,595
+B-25154,3977,813,Office Supplies,New York City,2024-12-09,New York,Mark Rodriguez,596,596.0,596
+B-26114,6252,1377,Electronics,Chicago,2023-06-01,Illinois,Sarah Montgomery,597,597.0,597
+B-26485,9084,3253,Office Supplies,Buffalo,2023-11-05,New York,Marisa Prince,598,598.0,598
+B-26191,8994,1481,Electronics,San Diego,2020-06-21,California,James Bonilla,599,599.0,599
+B-26754,1089,176,Office Supplies,Dallas,2020-10-26,Texas,Robin Myers,600,600.0,600
+B-25953,6690,1001,Office Supplies,Springfield,2022-06-06,Illinois,Nancy Sanchez,601,601.0,601
+B-25953,6690,1001,Office Supplies,Chicago,2021-11-13,Illinois,Sydney Walls,602,602.0,602
+B-25953,4985,1920,Furniture,Springfield,2022-06-06,Illinois,Nancy Sanchez,603,603.0,603
+B-25953,4985,1920,Furniture,Chicago,2021-11-13,Illinois,Sydney Walls,604,604.0,604
+B-26516,8590,3565,Electronics,Miami,2021-11-11,Florida,Deborah Hoffman,605,605.0,605
+B-26516,6973,3038,Furniture,Miami,2021-11-11,Florida,Deborah Hoffman,606,606.0,606
+B-26843,4591,1941,Electronics,Dallas,2021-07-31,Texas,Megan Williams,607,607.0,607
+B-26843,9612,2572,Office Supplies,Dallas,2021-07-31,Texas,Megan Williams,608,608.0,608
+B-26167,5343,655,Furniture,San Diego,2024-04-13,California,Shane Clark,609,609.0,609
+B-26972,6956,318,Office Supplies,Springfield,2022-04-19,Illinois,Steven Haynes,610,610.0,610
+B-25673,5306,2405,Furniture,Buffalo,2024-03-23,New York,Kimberly Fuller,611,611.0,611
+B-26587,8982,448,Furniture,New York City,2021-05-07,New York,Angela Lyons,612,612.0,612
+B-26587,4826,562,Office Supplies,New York City,2021-05-07,New York,Angela Lyons,613,613.0,613
+B-26668,972,106,Office Supplies,Cincinnati,2022-05-06,Ohio,Betty Tucker,614,614.0,614
+B-26906,3665,802,Office Supplies,Miami,2021-08-09,Florida,Brianna Hunt,615,615.0,615
+B-26906,3665,802,Office Supplies,Tampa,2025-02-09,Florida,Cathy Clark,616,616.0,616
+B-25226,9808,2117,Office Supplies,Los Angeles,2024-04-23,California,Nicole Warren,617,617.0,617
+B-25166,1133,73,Furniture,Cleveland,2023-02-23,Ohio,Richard Castaneda,618,618.0,618
+B-25166,1133,73,Furniture,San Diego,2024-06-06,California,Sarah Torres,619,619.0,619
+B-25166,6248,1168,Furniture,Cleveland,2023-02-23,Ohio,Richard Castaneda,620,620.0,620
+B-25166,6248,1168,Furniture,San Diego,2024-06-06,California,Sarah Torres,621,621.0,621
+B-25454,5666,2733,Electronics,Tampa,2025-01-27,Florida,Vanessa Deleon,622,622.0,622
+B-26215,4171,1450,Office Supplies,Dallas,2023-04-07,Texas,Richard Lyons,623,623.0,623
+B-25777,6236,2839,Electronics,Springfield,2022-01-20,Illinois,Eric Adams,624,624.0,624
+B-25777,6236,2839,Electronics,Orlando,2022-05-10,Florida,Chad Brown,625,625.0,625
+B-25383,5410,2456,Furniture,Los Angeles,2024-05-29,California,Kayla Becker,626,626.0,626
+B-25383,5410,2456,Furniture,Tampa,2022-01-04,Florida,Ashley Freeman,627,627.0,627
+B-26409,3024,1353,Furniture,Los Angeles,2024-05-02,California,Scott Harris,628,628.0,628
+B-26409,3024,1353,Furniture,Columbus,2021-12-28,Ohio,John James,629,629.0,629
+B-26684,7434,2851,Office Supplies,Springfield,2022-12-12,Illinois,Jesse Bond,630,630.0,630
+B-26726,7213,508,Electronics,Dallas,2023-08-17,Texas,Brandon Hughes,631,631.0,631
+B-26726,7213,508,Electronics,Cincinnati,2021-11-29,Ohio,Lynn Reynolds,632,632.0,632
+B-26726,3176,586,Furniture,Dallas,2023-08-17,Texas,Brandon Hughes,633,633.0,633
+B-26726,3176,586,Furniture,Cincinnati,2021-11-29,Ohio,Lynn Reynolds,634,634.0,634
+B-26136,9144,2220,Office Supplies,Miami,2021-06-13,Florida,Ronald Good,635,635.0,635
+B-26098,4146,865,Furniture,Houston,2022-07-04,Texas,Kyle Baker,636,636.0,636
+B-26098,3793,875,Furniture,Houston,2022-07-04,Texas,Kyle Baker,637,637.0,637
+B-25430,7169,2385,Furniture,Los Angeles,2021-06-27,California,Michael Rivera,638,638.0,638
+B-25430,4046,417,Furniture,Los Angeles,2021-06-27,California,Michael Rivera,639,639.0,639
+B-25266,4164,905,Electronics,San Diego,2023-12-04,California,Lori Adkins,640,640.0,640
+B-25266,5389,2196,Furniture,San Diego,2023-12-04,California,Lori Adkins,641,641.0,641
+B-25283,5448,2204,Furniture,New York City,2022-08-09,New York,Luis Warner,642,642.0,642
+B-25227,4115,1285,Furniture,Orlando,2020-04-08,Florida,Donald Perry,643,643.0,643
+B-25227,4761,2231,Furniture,Orlando,2020-04-08,Florida,Donald Perry,644,644.0,644
+B-25669,5899,2264,Office Supplies,Buffalo,2023-10-20,New York,Adam Stevens,645,645.0,645
+B-25064,6109,3040,Furniture,Buffalo,2022-02-10,New York,Kimberly Johnson,646,646.0,646
+B-25064,6109,3040,Furniture,Rochester,2023-10-05,New York,Kelly Jones,647,647.0,647
+B-25064,4628,1491,Electronics,Buffalo,2022-02-10,New York,Kimberly Johnson,648,648.0,648
+B-25064,4628,1491,Electronics,Rochester,2023-10-05,New York,Kelly Jones,649,649.0,
+B-26268,4369,584,Office Supplies,Peoria,2022-09-22,Illinois,Ashley Petty,650,650.0,
+B-26268,4369,584,Office Supplies,Austin,2021-04-03,Texas,Crystal Ross,651,651.0,
+B-25456,5632,2358,Furniture,Los Angeles,2021-05-03,California,Alexis Duffy,652,652.0,
+B-25456,5632,2358,Furniture,Miami,2024-02-11,Florida,Stephanie Sanchez,653,653.0,
+B-25456,5632,2358,Furniture,Cleveland,2025-02-04,Ohio,Reginald Espinoza,654,654.0,
+B-25495,7519,402,Office Supplies,San Diego,2022-10-12,California,Sandra Hicks,655,655.0,
+B-25495,1564,674,Electronics,San Diego,2022-10-12,California,Sandra Hicks,656,656.0,
+B-26552,2804,936,Electronics,Austin,2022-02-06,Texas,Olivia Orozco,657,657.0,
+B-26552,2804,936,Electronics,Tampa,2020-11-09,Florida,Larry Moore,658,658.0,
+B-26552,2804,936,Electronics,Tampa,2023-05-03,Florida,Mrs. Rachel Cannon DDS,659,659.0,
+B-25203,2321,505,Furniture,Springfield,2022-10-04,Illinois,Daniel Flowers,660,660.0,
+B-25462,5730,482,Electronics,Tampa,2024-08-21,Florida,Randy Acosta,661,661.0,
+B-26145,7441,867,Furniture,Chicago,2021-11-20,Illinois,Deborah Williams,662,662.0,
+B-26145,7441,867,Furniture,Austin,2020-05-13,Texas,Robert Michael,663,663.0,
+B-25552,1732,766,Office Supplies,New York City,2023-02-28,New York,Danny Ramirez,664,664.0,
+B-25552,8788,3944,Office Supplies,New York City,2023-02-28,New York,Danny Ramirez,665,665.0,
+B-26069,838,271,Office Supplies,Columbus,2021-01-21,Ohio,Stephen Baker,666,666.0,
+B-26069,838,271,Office Supplies,Peoria,2022-02-28,Illinois,Jeffrey Wilcox,667,667.0,
+B-26069,3577,699,Furniture,Columbus,2021-01-21,Ohio,Stephen Baker,668,668.0,
+B-26069,3577,699,Furniture,Peoria,2022-02-28,Illinois,Jeffrey Wilcox,669,669.0,
+B-25120,7122,1836,Electronics,Dallas,2024-04-25,Texas,James Clarke,670,670.0,
+B-25120,7122,1836,Electronics,Houston,2023-03-10,Texas,Julia Gallagher,671,671.0,
+B-25120,7122,1836,Electronics,New York City,2023-07-10,New York,Ronald Frey Jr.,672,672.0,
+B-25120,7327,2596,Office Supplies,Dallas,2024-04-25,Texas,James Clarke,673,673.0,
+B-25120,7327,2596,Office Supplies,Houston,2023-03-10,Texas,Julia Gallagher,674,674.0,
+B-25120,7327,2596,Office Supplies,New York City,2023-07-10,New York,Ronald Frey Jr.,675,675.0,
+B-26146,2239,1094,Electronics,Tampa,2024-07-28,Florida,Megan Charles,676,676.0,
+B-26146,4932,1153,Office Supplies,Tampa,2024-07-28,Florida,Megan Charles,677,677.0,
+B-25549,4609,1084,Electronics,Orlando,2023-07-30,Florida,Amy Duran MD,678,678.0,
+B-25549,2328,788,Office Supplies,Orlando,2023-07-30,Florida,Amy Duran MD,679,679.0,
+B-25549,4734,958,Electronics,Orlando,2023-07-30,Florida,Amy Duran MD,680,680.0,
+B-25488,1388,345,Furniture,New York City,2024-10-05,New York,Christopher Thomas,681,681.0,
+B-25488,8555,1638,Electronics,New York City,2024-10-05,New York,Christopher Thomas,682,682.0,
+B-26885,9024,730,Furniture,Dallas,2024-02-20,Texas,Peter Castro,683,683.0,
+B-26885,2468,418,Electronics,Dallas,2024-02-20,Texas,Peter Castro,684,684.0,
+B-25703,9438,1801,Electronics,Orlando,2023-04-19,Florida,Steven Acosta,685,685.0,
+B-25703,9438,1801,Electronics,Austin,2023-10-29,Texas,Lindsay Jackson,686,686.0,
+B-25809,2685,379,Electronics,Cleveland,2022-03-08,Ohio,Kelly Smith,687,687.0,
+B-25809,2685,379,Electronics,Tampa,2022-12-08,Florida,Sabrina Hartman,688,688.0,
+B-25809,9916,4602,Furniture,Cleveland,2022-03-08,Ohio,Kelly Smith,689,689.0,
+B-25809,9916,4602,Furniture,Tampa,2022-12-08,Florida,Sabrina Hartman,690,690.0,
+B-25809,6184,50,Electronics,Cleveland,2022-03-08,Ohio,Kelly Smith,691,691.0,
+B-25809,6184,50,Electronics,Tampa,2022-12-08,Florida,Sabrina Hartman,692,692.0,
+B-25809,4548,2135,Office Supplies,Cleveland,2022-03-08,Ohio,Kelly Smith,693,693.0,
+B-25809,4548,2135,Office Supplies,Tampa,2022-12-08,Florida,Sabrina Hartman,694,694.0,
+B-25477,7195,1665,Office Supplies,Rochester,2024-07-27,New York,Cynthia Smith,695,695.0,
+B-25477,7195,1665,Office Supplies,Buffalo,2022-07-05,New York,Olivia Dickerson,696,696.0,
+B-26018,3098,957,Furniture,Austin,2024-07-04,Texas,Whitney Stout,697,697.0,
+B-25329,5412,1192,Furniture,San Diego,2024-02-28,California,Stephanie Flores,698,698.0,
+B-25329,5412,1192,Furniture,Los Angeles,2025-01-03,California,Gregory English,699,699.0,
+B-25182,1397,686,Furniture,New York City,2021-12-07,New York,Natalie Maxwell,700,700.0,
+B-25492,9279,552,Furniture,Buffalo,2021-12-14,New York,Tina Blake,701,701.0,
+B-25492,9279,552,Furniture,San Francisco,2020-11-30,California,Clarence Cooke,702,702.0,
+B-25492,2596,1003,Office Supplies,Buffalo,2021-12-14,New York,Tina Blake,703,703.0,
+B-25492,2596,1003,Office Supplies,San Francisco,2020-11-30,California,Clarence Cooke,704,704.0,
+B-25517,6732,911,Furniture,Buffalo,2021-12-29,New York,Tamara Guzman,705,705.0,
+B-25517,4495,1408,Office Supplies,Buffalo,2021-12-29,New York,Tamara Guzman,706,706.0,
+B-25200,9653,2471,Office Supplies,Buffalo,2024-07-08,New York,Marissa Hartman,707,707.0,
+B-26009,8945,1728,Furniture,Peoria,2021-02-10,Illinois,Sara Garcia,708,708.0,
+B-26580,4007,201,Furniture,Columbus,2020-10-21,Ohio,Kathryn Rogers,709,709.0,
+B-26580,4007,201,Furniture,Dallas,2023-04-17,Texas,Kyle Dickson,710,710.0,
+B-25679,810,231,Furniture,Tampa,2020-10-21,Florida,Jacob Decker,711,711.0,
+B-26034,9789,2071,Furniture,Rochester,2023-12-28,New York,Aaron Johnson,712,712.0,
+B-26034,9229,4090,Electronics,Rochester,2023-12-28,New York,Aaron Johnson,713,713.0,
+B-25148,8141,3968,Office Supplies,Rochester,2022-12-23,New York,William Morse,714,714.0,
+B-25148,8141,3968,Office Supplies,Peoria,2022-08-10,Illinois,Carrie Smith,715,715.0,
+B-25148,1067,251,Furniture,Rochester,2022-12-23,New York,William Morse,716,716.0,
+B-25148,1067,251,Furniture,Peoria,2022-08-10,Illinois,Carrie Smith,717,717.0,
+B-25830,3839,1415,Office Supplies,Los Angeles,2023-10-17,California,Vincent Roth,718,718.0,
+B-25830,3839,1415,Office Supplies,Orlando,2022-02-28,Florida,Andrew Benson,719,719.0,
+B-25762,2858,482,Electronics,Austin,2024-05-24,Texas,Jason Wilson,720,720.0,
+B-26794,2137,638,Furniture,New York City,2020-10-02,New York,Colin Patterson,721,721.0,
+B-26794,2831,1289,Furniture,New York City,2020-10-02,New York,Colin Patterson,722,722.0,
+B-25011,3913,961,Furniture,Columbus,2024-02-10,Ohio,Eric Bates,723,723.0,
+B-25011,3913,961,Furniture,San Francisco,2021-02-06,California,Steven Keith,724,724.0,
+B-25515,4468,1940,Office Supplies,Tampa,2022-03-16,Florida,Seth Rodriguez,725,725.0,
+B-25369,1579,602,Electronics,Cincinnati,2020-05-24,Ohio,Lauren Jones,726,726.0,
+B-25369,1579,602,Electronics,Dallas,2025-02-16,Texas,Thomas Wallace,727,727.0,
+B-25369,1579,602,Electronics,Cincinnati,2021-11-16,Ohio,Mr. Daniel Wilson,728,728.0,
+B-25369,1579,602,Electronics,Rochester,2024-09-08,New York,Julie Smith MD,729,729.0,
+B-25369,3760,1849,Furniture,Cincinnati,2020-05-24,Ohio,Lauren Jones,730,730.0,
+B-25369,3760,1849,Furniture,Dallas,2025-02-16,Texas,Thomas Wallace,731,731.0,
+B-25369,3760,1849,Furniture,Cincinnati,2021-11-16,Ohio,Mr. Daniel Wilson,732,732.0,
+B-25369,3760,1849,Furniture,Rochester,2024-09-08,New York,Julie Smith MD,733,733.0,
+B-26222,8706,3099,Office Supplies,Chicago,2022-06-29,Illinois,Carol Mitchell,734,734.0,
+B-26222,4708,696,Electronics,Chicago,2022-06-29,Illinois,Carol Mitchell,735,735.0,
+B-26222,8089,3132,Furniture,Chicago,2022-06-29,Illinois,Carol Mitchell,736,736.0,
+B-25316,5462,673,Electronics,Austin,2022-11-03,Texas,John Thompson,737,737.0,
+B-25507,6392,444,Electronics,Tampa,2023-11-28,Florida,Debra Rodriguez,738,738.0,
+B-25846,8706,1724,Electronics,Orlando,2020-04-25,Florida,Erin Vasquez,739,739.0,
+B-25763,2349,319,Office Supplies,Miami,2022-01-18,Florida,Clayton Lara,740,740.0,
+B-25763,8220,3882,Furniture,Miami,2022-01-18,Florida,Clayton Lara,741,741.0,
+B-25763,2379,279,Furniture,Miami,2022-01-18,Florida,Clayton Lara,742,742.0,
+B-25763,7377,2049,Office Supplies,Miami,2022-01-18,Florida,Clayton Lara,743,743.0,
+B-25465,717,158,Furniture,Cleveland,2022-03-23,Ohio,Tony Ray,744,744.0,
+B-25465,717,158,Furniture,Miami,2020-06-24,Florida,Steven Frey,745,745.0,
+B-25465,717,158,Furniture,Buffalo,2022-12-23,New York,Stephanie Leonard,746,746.0,
+B-25465,717,158,Furniture,New York City,2024-11-24,New York,Crystal Chambers,747,747.0,
+B-25465,717,158,Furniture,Orlando,2020-11-06,Florida,Robert White,748,748.0,
+B-25465,717,158,Furniture,Rochester,2023-10-24,New York,Sylvia Barron,749,749.0,
+B-25465,508,177,Furniture,Cleveland,2022-03-23,Ohio,Tony Ray,750,750.0,
+B-25465,508,177,Furniture,Miami,2020-06-24,Florida,Steven Frey,751,751.0,
+B-25465,508,177,Furniture,Buffalo,2022-12-23,New York,Stephanie Leonard,752,752.0,
+B-25465,508,177,Furniture,New York City,2024-11-24,New York,Crystal Chambers,753,753.0,
+B-25465,508,177,Furniture,Orlando,2020-11-06,Florida,Robert White,754,754.0,
+B-25465,508,177,Furniture,Rochester,2023-10-24,New York,Sylvia Barron,755,755.0,
+B-26352,9382,1085,Electronics,Chicago,2023-07-18,Illinois,Marcus Brown,756,756.0,
+B-26352,9382,1085,Electronics,Rochester,2022-05-16,New York,Annette Pierce,757,757.0,
+B-26352,4936,576,Furniture,Chicago,2023-07-18,Illinois,Marcus Brown,758,758.0,
+B-26352,4936,576,Furniture,Rochester,2022-05-16,New York,Annette Pierce,759,759.0,
+B-26528,2663,64,Furniture,San Francisco,2024-06-16,California,Donald Hernandez,760,760.0,
+B-26528,2663,64,Furniture,Cleveland,2021-10-23,Ohio,Megan Davis,761,761.0,
+B-26670,5151,1680,Electronics,Houston,2022-10-22,Texas,Robert Brooks,762,762.0,
+B-25331,2514,95,Office Supplies,Rochester,2023-07-17,New York,Miguel Alvarez,763,763.0,
+B-25832,6129,2976,Electronics,New York City,2025-02-24,New York,Jennifer Arnold,764,764.0,
+B-25832,4395,1663,Furniture,New York City,2025-02-24,New York,Jennifer Arnold,765,765.0,
+B-25897,5393,2642,Furniture,Cincinnati,2021-03-07,Ohio,Jessica Blankenship,766,766.0,
+B-25713,2280,509,Electronics,Buffalo,2021-01-03,New York,Peggy Campos,767,767.0,
+B-25065,6596,1439,Office Supplies,Cincinnati,2023-05-03,Ohio,Craig Ortega,768,768.0,
+B-25949,4510,1896,Office Supplies,Los Angeles,2023-10-25,California,Johnny Simon,769,769.0,
+B-26033,6077,2378,Electronics,New York City,2022-08-21,New York,Keith Brooks,770,770.0,
+B-26017,5379,2510,Electronics,Columbus,2022-04-16,Ohio,Jason Martinez,771,771.0,
+B-26926,4629,1660,Office Supplies,San Diego,2023-04-02,California,Steven Herrera,772,772.0,
+B-26258,2710,555,Electronics,Chicago,2024-10-21,Illinois,Beverly Lamb,773,773.0,
+B-26258,3224,1018,Office Supplies,Chicago,2024-10-21,Illinois,Beverly Lamb,774,774.0,
+B-26240,8042,936,Office Supplies,Springfield,2021-07-09,Illinois,Michael Williams,775,775.0,
+B-26240,8042,936,Office Supplies,Los Angeles,2022-04-08,California,Zachary Carpenter,776,776.0,
+B-26922,3957,151,Office Supplies,Austin,2022-04-30,Texas,Timothy Baker,777,777.0,
+B-26894,8769,3178,Office Supplies,Chicago,2023-01-20,Illinois,Adam James,778,778.0,
+B-25330,2957,917,Office Supplies,Chicago,2024-11-17,Illinois,Katrina Wood,779,779.0,
+B-26288,5344,2607,Office Supplies,Dallas,2022-04-23,Texas,James Murray,780,780.0,
+B-26288,5344,2607,Office Supplies,Rochester,2025-02-18,New York,Mr. Nathaniel Reeves,781,781.0,
+B-25228,6061,2121,Electronics,Cleveland,2021-05-27,Ohio,Jodi Wood,782,782.0,
+B-25228,6061,2121,Electronics,San Diego,2022-01-17,California,Dr. Thomas Peterson,783,783.0,
+B-26457,5376,1928,Furniture,New York City,2025-01-15,New York,Mario Hall,784,784.0,
+B-25790,2792,1008,Electronics,Miami,2021-02-14,Florida,Justin Rosales,785,785.0,
+B-25868,2944,249,Office Supplies,Columbus,2024-08-31,Ohio,Autumn Lee,786,786.0,
+B-25868,2944,249,Office Supplies,Dallas,2022-12-26,Texas,Victoria Duran,787,787.0,
+B-25381,4220,945,Office Supplies,Springfield,2024-03-21,Illinois,Barry Garcia,788,788.0,
+B-25381,4220,945,Office Supplies,Peoria,2020-12-15,Illinois,Dawn Webb,789,789.0,
+B-25153,8526,1704,Office Supplies,Austin,2023-03-21,Texas,Patricia Sanford,790,790.0,
+B-26576,8218,1430,Furniture,San Francisco,2023-06-08,California,William Walters,791,791.0,
+B-26526,599,265,Electronics,Buffalo,2022-07-17,New York,Emma Scott,792,792.0,
+B-26526,599,265,Electronics,Rochester,2024-12-05,New York,Sabrina Buckley,793,793.0,
+B-26526,2727,543,Furniture,Buffalo,2022-07-17,New York,Emma Scott,794,794.0,
+B-26526,2727,543,Furniture,Rochester,2024-12-05,New York,Sabrina Buckley,795,795.0,
+B-25819,2589,605,Office Supplies,San Francisco,2023-11-02,California,Robert Rojas,796,796.0,
+B-25819,2589,605,Office Supplies,Cleveland,2024-10-05,Ohio,Eric Johnson,797,797.0,
+B-25698,3776,1100,Electronics,Austin,2022-11-13,Texas,Heather Parker,798,798.0,
+B-25698,3776,1100,Electronics,Peoria,2022-12-28,Illinois,Thomas Matthews,799,799.0,
+B-26820,5402,1666,Furniture,Cleveland,2025-02-26,Ohio,Kimberly Beard,800,800.0,
+B-25396,5165,885,Office Supplies,Peoria,2022-11-12,Illinois,Lydia Donovan,801,801.0,
+B-25396,4863,2394,Furniture,Peoria,2022-11-12,Illinois,Lydia Donovan,802,802.0,
+B-25529,1626,258,Office Supplies,Orlando,2021-06-07,Florida,Edward Johnson,803,803.0,
+B-26501,8851,3962,Furniture,Miami,2020-09-26,Florida,Ricky Smith,804,804.0,
+B-26910,9680,3295,Furniture,Rochester,2024-04-29,New York,Mr. Ralph Garcia Jr.,805,805.0,
+B-26910,8468,3666,Office Supplies,Rochester,2024-04-29,New York,Mr. Ralph Garcia Jr.,806,806.0,
+B-26910,4441,314,Furniture,Rochester,2024-04-29,New York,Mr. Ralph Garcia Jr.,807,807.0,
+B-25978,6622,2673,Furniture,New York City,2024-04-10,New York,Malik Walker,,808.0,
+B-26537,3260,207,Furniture,San Diego,2023-12-21,California,Tanya Walker,,809.0,
+B-25881,8709,2322,Furniture,Austin,2024-05-02,Texas,Sherri Ferguson DVM,,810.0,
+B-25881,8709,2322,Furniture,San Francisco,2024-11-21,California,Kristin Hart,,811.0,
+B-25237,5250,187,Office Supplies,Cincinnati,2022-03-17,Ohio,Jim Johnson,,812.0,
+B-25237,5250,187,Office Supplies,Houston,2023-05-14,Texas,David Hamilton,,813.0,
+B-26122,4116,921,Office Supplies,Los Angeles,2024-10-07,California,Michael Jimenez,,814.0,
+B-26122,4116,921,Office Supplies,Springfield,2020-09-08,Illinois,Angela Norman,,815.0,
+B-25709,1109,418,Office Supplies,Los Angeles,2021-08-19,California,Denise Mcdaniel,,816.0,
+B-26656,3573,562,Office Supplies,Rochester,2022-10-12,New York,Michael Rodriguez,,817.0,
+B-26656,3573,562,Office Supplies,San Diego,2020-05-23,California,Matthew Huff,,818.0,
+B-26656,3573,562,Office Supplies,Tampa,2020-04-18,Florida,Linda Little,,819.0,
+B-26656,8055,661,Electronics,Rochester,2022-10-12,New York,Michael Rodriguez,,820.0,
+B-26656,8055,661,Electronics,San Diego,2020-05-23,California,Matthew Huff,,821.0,
+B-26656,8055,661,Electronics,Tampa,2020-04-18,Florida,Linda Little,,822.0,
+B-25801,6829,2609,Electronics,San Francisco,2022-06-04,California,Kerri Andrews,,823.0,
+B-25801,6390,3089,Office Supplies,San Francisco,2022-06-04,California,Kerri Andrews,,824.0,
+B-25006,5831,1574,Office Supplies,San Francisco,2022-11-16,California,Jeffrey Johnson III,,825.0,
+B-25006,5831,1574,Office Supplies,San Diego,2024-07-18,California,Daniel Dixon,,826.0,
+B-25006,5831,1574,Office Supplies,Miami,2023-07-16,Florida,Tiffany Robinson,,827.0,
+B-26106,7952,3865,Furniture,Peoria,2020-08-10,Illinois,Mr. Gregg Sawyer,,828.0,
+B-25789,3659,379,Furniture,Los Angeles,2024-06-22,California,John Silva,,829.0,
+B-26292,4183,1159,Office Supplies,Springfield,2020-07-13,Illinois,Nathan Moss,,830.0,
+B-25895,7478,1381,Electronics,Houston,2024-04-16,Texas,Donald Medina,,831.0,
+B-25813,702,238,Electronics,Tampa,2021-03-13,Florida,Charles Henderson,,832.0,
+B-26863,4037,1494,Furniture,San Francisco,2023-04-01,California,Brenda Davis,,833.0,
+B-25759,5014,2332,Furniture,Chicago,2020-11-10,Illinois,Leah Calderon,,834.0,
+B-26357,9879,4930,Electronics,Rochester,2023-06-08,New York,Brandi Vasquez,,835.0,
+B-26819,8762,3502,Electronics,Tampa,2021-08-17,Florida,Debra Richards,,836.0,
+B-25502,8490,800,Office Supplies,New York City,2020-05-24,New York,Tammy Day,,837.0,
+B-25258,6951,164,Furniture,Buffalo,2021-08-12,New York,Sheila Clay,,838.0,
+B-26878,1078,309,Electronics,Cleveland,2022-09-03,Ohio,Nicholas Flores,,839.0,
+B-26878,1078,309,Electronics,Chicago,2020-10-01,Illinois,Jasmin Jones,,840.0,
+B-25170,8560,2166,Office Supplies,Tampa,2022-05-27,Florida,Matthew Gardner,,841.0,
+B-25170,1031,318,Electronics,Tampa,2022-05-27,Florida,Matthew Gardner,,842.0,
+B-26842,6402,2770,Office Supplies,Orlando,2024-03-10,Florida,Joseph Perkins,,843.0,
+B-26842,6402,2770,Office Supplies,Orlando,2023-10-05,Florida,Ashley Adams MD,,844.0,
+B-26842,5916,1594,Electronics,Orlando,2024-03-10,Florida,Joseph Perkins,,845.0,
+B-26842,5916,1594,Electronics,Orlando,2023-10-05,Florida,Ashley Adams MD,,846.0,
+B-26599,4015,1751,Furniture,San Francisco,2022-08-28,California,Cheryl Stevens,,847.0,
+B-26599,4015,1751,Furniture,New York City,2020-09-08,New York,Jorge George,,848.0,
+B-25705,9335,557,Electronics,Los Angeles,2021-04-27,California,Ann Mooney,,849.0,
+B-26366,4706,594,Office Supplies,Cleveland,2021-08-21,Ohio,James Mendoza,,850.0,
+B-26366,4706,594,Office Supplies,Columbus,2021-05-16,Ohio,Kaitlin Garrison,,851.0,
+B-26366,6584,371,Office Supplies,Cleveland,2021-08-21,Ohio,James Mendoza,,852.0,
+B-26366,6584,371,Office Supplies,Columbus,2021-05-16,Ohio,Kaitlin Garrison,,853.0,
+B-26116,6389,734,Furniture,Dallas,2022-01-15,Texas,Jeremy Jackson,,854.0,
+B-26443,9869,4299,Electronics,San Diego,2023-03-21,California,Dale Craig,,855.0,
+B-26443,9869,4299,Electronics,Buffalo,2023-12-28,New York,Joseph Hooper,,856.0,
+B-25955,655,297,Office Supplies,Buffalo,2022-02-15,New York,Alexander Adams,,857.0,
+B-25955,655,297,Office Supplies,Orlando,2023-11-30,Florida,Ashlee Mills,,858.0,
+B-26383,798,308,Electronics,Buffalo,2023-01-12,New York,Brittany Jenkins,,859.0,
+B-26383,798,308,Electronics,Cleveland,2023-05-19,Ohio,Eddie Gonzales,,860.0,
+B-26383,7967,2504,Electronics,Buffalo,2023-01-12,New York,Brittany Jenkins,,861.0,
+B-26383,7967,2504,Electronics,Cleveland,2023-05-19,Ohio,Eddie Gonzales,,862.0,
+B-26999,3756,1318,Furniture,Miami,2024-02-19,Florida,Edward Valencia,,863.0,
+B-26712,5196,2477,Office Supplies,Austin,2021-12-01,Texas,Emma Bruce,,864.0,
+B-26712,6586,1794,Furniture,Austin,2021-12-01,Texas,Emma Bruce,,865.0,
+B-26066,6673,950,Office Supplies,Buffalo,2024-12-19,New York,Carl Wade DDS,,866.0,
+B-25996,714,232,Furniture,Columbus,2023-01-18,Ohio,Brandon Alvarado,,867.0,
+B-25996,714,232,Furniture,Austin,2020-12-23,Texas,Jennifer Clark,,868.0,
+B-26924,1083,501,Office Supplies,Austin,2021-02-28,Texas,David Johnson,,869.0,
+B-25541,2401,1163,Furniture,Cleveland,2023-05-04,Ohio,April Marquez,,870.0,
+B-25541,2401,1163,Furniture,Los Angeles,2020-04-22,California,Joseph Guerrero,,871.0,
+B-25541,2401,1163,Furniture,Rochester,2021-08-13,New York,Michael Hanson,,872.0,
+B-25541,1045,267,Electronics,Cleveland,2023-05-04,Ohio,April Marquez,,873.0,
+B-25541,1045,267,Electronics,Los Angeles,2020-04-22,California,Joseph Guerrero,,874.0,
+B-25541,1045,267,Electronics,Rochester,2021-08-13,New York,Michael Hanson,,875.0,
+B-25196,7806,1127,Office Supplies,Dallas,2023-07-20,Texas,William Hill,,876.0,
+B-25855,5263,1743,Furniture,Miami,2022-08-28,Florida,Kelsey Huber,,877.0,
+B-25071,6147,2526,Office Supplies,Dallas,2023-03-14,Texas,Hailey Chandler,,878.0,
+B-26159,7484,2871,Electronics,Orlando,2023-11-07,Florida,Cheyenne Rose,,879.0,
+B-26159,7484,2871,Electronics,Chicago,2024-04-16,Illinois,Richard Petersen,,880.0,
+B-26159,7700,2712,Furniture,Orlando,2023-11-07,Florida,Cheyenne Rose,,881.0,
+B-26159,7700,2712,Furniture,Chicago,2024-04-16,Illinois,Richard Petersen,,882.0,
+B-26228,8537,3586,Office Supplies,Rochester,2022-09-16,New York,Kathryn Gray,,883.0,
+B-25888,8858,3394,Furniture,San Diego,2024-10-31,California,Victor Collins,,884.0,
+B-25574,5313,2037,Electronics,San Francisco,2024-11-25,California,Jason Hernandez,,885.0,
+B-25574,5313,2037,Electronics,Houston,2021-10-29,Texas,Jacob Torres,,886.0,
+B-26938,3281,471,Furniture,Los Angeles,2023-12-27,California,Erin Hernandez,,887.0,
+B-26938,3281,471,Furniture,Peoria,2023-06-25,Illinois,Jacob Guzman,,888.0,
+B-26379,8681,2458,Office Supplies,New York City,2020-09-01,New York,Mike Armstrong,,889.0,
+B-26623,6195,1556,Furniture,Springfield,2025-02-01,Illinois,Cindy Rowland,,890.0,
+B-25566,3877,481,Furniture,Rochester,2023-07-22,New York,Kenneth Matthews,,891.0,
+B-25566,3877,481,Furniture,New York City,2022-02-04,New York,Susan Valdez,,892.0,
+B-26740,9369,3297,Electronics,Orlando,2023-09-27,Florida,Stephanie Manning,,893.0,
+B-26740,9369,3297,Electronics,New York City,2025-01-30,New York,Logan Galloway,,894.0,
+B-26740,8680,4068,Electronics,Orlando,2023-09-27,Florida,Stephanie Manning,,895.0,
+B-26740,8680,4068,Electronics,New York City,2025-01-30,New York,Logan Galloway,,896.0,
+B-26740,3067,1475,Electronics,Orlando,2023-09-27,Florida,Stephanie Manning,,897.0,
+B-26740,3067,1475,Electronics,New York City,2025-01-30,New York,Logan Galloway,,898.0,
+B-25024,9002,4197,Office Supplies,Cincinnati,2025-01-15,Ohio,Christopher Stone,,899.0,
+B-25024,9002,4197,Office Supplies,Columbus,2021-03-28,Ohio,Megan Pitts,,900.0,
+B-26367,7105,2782,Office Supplies,Columbus,2021-12-25,Ohio,Richard Gardner,,901.0,
+B-26353,5317,1345,Furniture,Columbus,2023-02-03,Ohio,Samuel Moore,,902.0,
+B-26353,5317,1345,Furniture,Orlando,2023-04-28,Florida,Robert Stokes,,903.0,
+B-26353,5317,1345,Furniture,San Francisco,2024-11-22,California,Danielle Ramirez,,904.0,
+B-26353,6304,766,Furniture,Columbus,2023-02-03,Ohio,Samuel Moore,,905.0,
+B-26353,6304,766,Furniture,Orlando,2023-04-28,Florida,Robert Stokes,,906.0,
+B-26353,6304,766,Furniture,San Francisco,2024-11-22,California,Danielle Ramirez,,907.0,
+B-25742,9565,1691,Office Supplies,Springfield,2024-07-02,Illinois,Taylor White,,908.0,
+B-25742,8245,324,Office Supplies,Springfield,2024-07-02,Illinois,Taylor White,,909.0,
+B-26965,1592,480,Electronics,Cleveland,2022-01-18,Ohio,Jordan Krause,,910.0,
+B-26038,8400,267,Electronics,Columbus,2024-10-08,Ohio,Kimberly King,,911.0,
+B-26038,4963,1254,Office Supplies,Columbus,2024-10-08,Ohio,Kimberly King,,912.0,
+B-25317,2472,211,Electronics,San Diego,2020-06-21,California,Sharon Russell,,913.0,
+B-25970,9132,3096,Furniture,Tampa,2023-12-14,Florida,Kevin Cooper,,914.0,
+B-25590,8305,1577,Office Supplies,Rochester,2020-12-16,New York,Darrell Ramos,,915.0,
+B-25580,1010,58,Electronics,Tampa,2025-03-15,Florida,Dr. Terry Alvarado,,916.0,
+B-25443,4544,1726,Electronics,Dallas,2024-08-21,Texas,Kathy Wilson,,917.0,
+B-25443,5900,1738,Electronics,Dallas,2024-08-21,Texas,Kathy Wilson,,918.0,
+B-25774,8861,3381,Office Supplies,San Diego,2021-05-27,California,Brandon Le,,919.0,
+B-26505,8158,2052,Electronics,Cincinnati,2020-09-21,Ohio,Mary Wright,,920.0,
+B-25163,3411,1704,Office Supplies,Los Angeles,2025-01-11,California,Douglas Reynolds,,921.0,
+B-26095,9406,1137,Office Supplies,Houston,2021-10-20,Texas,Leroy Harris,,922.0,
+B-26095,1156,74,Electronics,Houston,2021-10-20,Texas,Leroy Harris,,923.0,
+B-25768,5354,743,Furniture,Springfield,2021-10-19,Illinois,Ricardo Dixon,,924.0,
+B-25328,8780,3430,Electronics,Austin,2024-07-07,Texas,Debra Smith,,925.0,
+B-25328,8780,3430,Electronics,Austin,2023-07-25,Texas,Jasmine James,,926.0,
+B-26573,6783,3306,Furniture,Columbus,2020-04-16,Ohio,Felicia Morton,,927.0,
+B-25138,1778,285,Office Supplies,New York City,2020-07-04,New York,Sylvia Jenkins,,928.0,
+B-26803,9399,1949,Electronics,Rochester,2022-05-16,New York,Elizabeth White,,929.0,
+B-26803,7957,965,Furniture,Rochester,2022-05-16,New York,Elizabeth White,,930.0,
+B-25101,1638,661,Furniture,Springfield,2023-11-25,Illinois,Steven Steele,,931.0,
+B-25827,1786,224,Furniture,Dallas,2021-08-17,Texas,Amanda Ramirez,,932.0,
+B-25792,4751,781,Office Supplies,Buffalo,2023-07-02,New York,Kyle Jackson,,933.0,
+B-25646,8979,4477,Office Supplies,Chicago,2020-08-24,Illinois,Sharon Wilkins,,934.0,
+B-25043,2727,663,Electronics,Miami,2022-11-07,Florida,Austin Hammond,,935.0,
+B-26598,1093,397,Electronics,Peoria,2024-03-27,Illinois,Jessica Barajas,,936.0,
+B-26598,1093,397,Electronics,Buffalo,2024-09-01,New York,Jamie Jimenez,,937.0,
+B-26598,1093,397,Electronics,Columbus,2022-02-22,Ohio,James Carter,,938.0,
+B-26598,2636,88,Office Supplies,Peoria,2024-03-27,Illinois,Jessica Barajas,,939.0,
+B-26598,2636,88,Office Supplies,Buffalo,2024-09-01,New York,Jamie Jimenez,,940.0,
+B-26598,2636,88,Office Supplies,Columbus,2022-02-22,Ohio,James Carter,,941.0,
+B-26643,7344,2251,Electronics,Miami,2022-02-11,Florida,John Williams,,942.0,
+B-26643,7306,1547,Office Supplies,Miami,2022-02-11,Florida,John Williams,,943.0,
+B-26643,5832,2588,Electronics,Miami,2022-02-11,Florida,John Williams,,944.0,
+B-25992,8572,2041,Furniture,Springfield,2021-05-27,Illinois,Alicia Oneill,,945.0,
+B-25992,8572,2041,Furniture,Springfield,2023-07-05,Illinois,Rebecca Huff,,946.0,
+B-25992,8572,2041,Furniture,San Diego,2020-10-27,California,Diana Scott,,947.0,
+B-25992,8059,1834,Electronics,Springfield,2021-05-27,Illinois,Alicia Oneill,,948.0,
+B-25992,8059,1834,Electronics,Springfield,2023-07-05,Illinois,Rebecca Huff,,949.0,
+B-25992,8059,1834,Electronics,San Diego,2020-10-27,California,Diana Scott,,950.0,
+B-25532,3661,436,Furniture,Austin,2023-01-26,Texas,Brian Young,,951.0,
+B-25564,2451,342,Office Supplies,Los Angeles,2021-09-06,California,Susan Wright,,952.0,
+B-25564,2451,342,Office Supplies,Cincinnati,2021-11-12,Ohio,Kayla Banks,,953.0,
+B-25564,2451,342,Office Supplies,Houston,2024-07-30,Texas,Zachary Pierce,,954.0,
+B-26543,7067,1943,Furniture,San Francisco,2022-03-15,California,Nicolas Owen,,955.0,
+B-25976,4307,615,Electronics,New York City,2024-03-15,New York,Martha Carney,,956.0,
+B-25976,4307,615,Electronics,Springfield,2020-11-10,Illinois,Francisco Hicks,,957.0,
+B-25976,5694,1134,Furniture,New York City,2024-03-15,New York,Martha Carney,,958.0,
+B-25976,5694,1134,Furniture,Springfield,2020-11-10,Illinois,Francisco Hicks,,959.0,
+B-25929,962,298,Office Supplies,Springfield,2022-07-23,Illinois,Matthew Parker,,960.0,
+B-25497,2995,220,Furniture,Buffalo,2024-09-13,New York,Paul Bryant,,961.0,
+B-25497,2047,914,Office Supplies,Buffalo,2024-09-13,New York,Paul Bryant,,962.0,
+B-26735,2078,612,Electronics,Austin,2022-01-25,Texas,Bruce Dennis,,963.0,
+B-25036,2737,1253,Electronics,New York City,2021-04-19,New York,Joseph Bates,,964.0,
+B-25971,8194,2881,Office Supplies,Houston,2021-07-18,Texas,Kelly Pacheco,,965.0,
+B-25441,9914,3858,Furniture,Buffalo,2022-06-24,New York,Jeffrey Weber,,966.0,
+B-25441,9914,3858,Furniture,Rochester,2024-06-08,New York,Andrew Krueger,,967.0,
+B-25441,5470,292,Office Supplies,Buffalo,2022-06-24,New York,Jeffrey Weber,,968.0,
+B-25441,5470,292,Office Supplies,Rochester,2024-06-08,New York,Andrew Krueger,,969.0,
+B-25441,1496,662,Furniture,Buffalo,2022-06-24,New York,Jeffrey Weber,,970.0,
+B-25441,1496,662,Furniture,Rochester,2024-06-08,New York,Andrew Krueger,,971.0,
+B-25823,3228,476,Office Supplies,New York City,2022-09-29,New York,Kathleen Cox,,972.0,
+B-25363,3918,749,Electronics,San Diego,2023-05-10,California,Jamie Bradley,,973.0,
+B-25363,3918,749,Electronics,Houston,2020-05-02,Texas,Robert Martinez,,974.0,
+B-26445,9921,1451,Furniture,Chicago,2021-04-12,Illinois,Christopher Rogers,,975.0,
+B-26724,9694,4361,Furniture,Springfield,2023-11-04,Illinois,Roberto Parrish,,976.0,
+B-25447,5028,1553,Office Supplies,Tampa,2020-05-04,Florida,Amber Kennedy,,977.0,
+B-26904,594,67,Office Supplies,Buffalo,2023-09-10,New York,Maria Davis,,978.0,
+B-26904,594,67,Office Supplies,Miami,2024-01-05,Florida,Terry Gilbert,,979.0,
+B-26904,594,67,Office Supplies,Austin,2024-05-08,Texas,Devon Schmitt,,980.0,
+B-26456,5954,2618,Furniture,Cincinnati,2024-03-30,Ohio,Robert Mosley,,981.0,
+B-25435,3518,1051,Furniture,San Francisco,2020-09-10,California,Paul Scott,,982.0,
+B-25435,4157,1874,Electronics,San Francisco,2020-09-10,California,Paul Scott,,983.0,
+B-26279,3747,410,Office Supplies,Springfield,2020-07-12,Illinois,Kristin Alvarez,,984.0,
+B-26279,3747,410,Office Supplies,Buffalo,2022-12-08,New York,Kevin Jackson,,985.0,
+B-26279,3747,410,Office Supplies,Columbus,2024-03-27,Ohio,Mrs. Lauren Potter DDS,,986.0,
+B-26279,3747,410,Office Supplies,Chicago,2023-02-17,Illinois,Jason Brown,,987.0,
+B-26279,3747,410,Office Supplies,Los Angeles,2021-07-21,California,Jamie Santos,,988.0,
+B-26279,3194,534,Office Supplies,Springfield,2020-07-12,Illinois,Kristin Alvarez,,989.0,
+B-26279,3194,534,Office Supplies,Buffalo,2022-12-08,New York,Kevin Jackson,,990.0,
+B-26279,3194,534,Office Supplies,Columbus,2024-03-27,Ohio,Mrs. Lauren Potter DDS,,991.0,
+B-26279,3194,534,Office Supplies,Chicago,2023-02-17,Illinois,Jason Brown,,992.0,
+B-26279,3194,534,Office Supplies,Los Angeles,2021-07-21,California,Jamie Santos,,993.0,
+B-25770,8548,2305,Office Supplies,Tampa,2022-10-30,Florida,James Taylor,,994.0,
+B-25715,6089,139,Furniture,Cincinnati,2020-12-31,Ohio,Alicia Vincent,,995.0,
+B-25715,6089,139,Furniture,Cleveland,2022-04-15,Ohio,Kenneth Adams,,996.0,
+B-25715,6089,139,Furniture,Chicago,2023-04-05,Illinois,Shelby Browning,,997.0,
+B-25715,2586,800,Furniture,Cincinnati,2020-12-31,Ohio,Alicia Vincent,,998.0,
+B-25715,2586,800,Furniture,Cleveland,2022-04-15,Ohio,Kenneth Adams,,999.0,
+B-25715,2586,800,Furniture,Chicago,2023-04-05,Illinois,Shelby Browning,,1000.0,
+B-25715,3757,1626,Office Supplies,Cincinnati,2020-12-31,Ohio,Alicia Vincent,,1001.0,
+B-25715,3757,1626,Office Supplies,Cleveland,2022-04-15,Ohio,Kenneth Adams,,1002.0,
+B-25715,3757,1626,Office Supplies,Chicago,2023-04-05,Illinois,Shelby Browning,,1003.0,
+B-26961,5193,2530,Furniture,San Diego,2021-10-29,California,Johnny Hill,,1004.0,
+B-26961,5193,2530,Furniture,Miami,2024-12-29,Florida,Nicholas Tucker,,1005.0,
+B-25902,7493,96,Electronics,Cleveland,2020-08-11,Ohio,Theresa Cline,,1006.0,
+B-26321,2062,848,Office Supplies,Tampa,2024-03-04,Florida,Christine Wheeler,,1007.0,
+B-25612,7163,1536,Electronics,San Diego,2023-10-17,California,Carlos Wells,,1008.0,
+B-25605,4026,163,Electronics,New York City,2023-07-28,New York,Randall Bell,,1009.0,
+B-25810,1894,275,Furniture,Miami,2021-11-27,Florida,Kendra Mckinney,,1010.0,
+B-25810,7144,192,Electronics,Miami,2021-11-27,Florida,Kendra Mckinney,,1011.0,
+B-25935,3482,1554,Electronics,Columbus,2020-09-09,Ohio,Amanda Kim,,1012.0,
+B-26245,4172,235,Office Supplies,Cleveland,2021-06-02,Ohio,Megan Morgan,,1013.0,
+B-26245,4172,235,Office Supplies,Orlando,2022-08-22,Florida,Vincent Kramer,,1014.0,
+B-26245,4172,235,Office Supplies,Springfield,2024-04-16,Illinois,Raymond Bean,,1015.0,
+B-25346,6265,155,Furniture,Cincinnati,2022-08-23,Ohio,Reginald Hebert,,1016.0,
+B-25346,6265,155,Furniture,Cleveland,2021-03-12,Ohio,Jeremy Vazquez,,1017.0,
+B-25594,2931,212,Electronics,Peoria,2024-06-26,Illinois,Michael Stewart,,1018.0,
+B-25594,2931,212,Electronics,Tampa,2023-12-08,Florida,Kevin Johnson,,1019.0,
+B-25471,1146,188,Furniture,Tampa,2024-11-27,Florida,Tara Hughes,,1020.0,
+B-25398,9215,767,Electronics,Tampa,2022-01-10,Florida,Sandra Perkins,,1021.0,
+B-25398,9215,767,Electronics,San Francisco,2021-11-01,California,Heather Bell,,1022.0,
+B-25999,7895,1005,Furniture,Cincinnati,2023-10-28,Ohio,Nancy Boyd,,1023.0,
+B-25999,7895,1005,Furniture,San Diego,2025-03-01,California,Raymond Reyes,,1024.0,
+B-25999,2740,558,Office Supplies,Cincinnati,2023-10-28,Ohio,Nancy Boyd,,1025.0,
+B-25999,2740,558,Office Supplies,San Diego,2025-03-01,California,Raymond Reyes,,1026.0,
+B-25159,5338,1354,Office Supplies,Peoria,2024-08-01,Illinois,Cassandra Jordan,,1027.0,
+B-25159,5338,1354,Office Supplies,Buffalo,2023-06-07,New York,Evelyn Harris,,1028.0,
+B-25159,5338,1354,Office Supplies,Orlando,2024-10-21,Florida,Shannon Maynard,,1029.0,
+B-25159,5338,1354,Office Supplies,Buffalo,2021-01-04,New York,Marie James,,1030.0,
+B-25496,3095,941,Office Supplies,Cleveland,2022-04-19,Ohio,Maria Carroll,,1031.0,
+B-25496,3095,941,Office Supplies,Austin,2022-08-11,Texas,Jessica Sloan,,1032.0,
+B-25401,6017,2230,Electronics,Peoria,2023-08-04,Illinois,Scott Craig,,1033.0,
+B-25707,4904,469,Office Supplies,Dallas,2020-04-25,Texas,Kaitlin Brown,,1034.0,
+B-25707,3080,737,Office Supplies,Dallas,2020-04-25,Texas,Kaitlin Brown,,1035.0,
+B-26225,1992,355,Electronics,Tampa,2024-12-14,Florida,William Beck,,1036.0,
+B-25662,5346,1246,Furniture,Orlando,2022-07-25,Florida,Eric Mason,,1037.0,
+B-25662,5346,1246,Furniture,Miami,2022-05-07,Florida,Lisa Lowe,,1038.0,
+B-26752,8422,893,Electronics,San Francisco,2022-08-11,California,Roy Miller,,1039.0,
+B-26752,8422,893,Electronics,Columbus,2022-08-12,Ohio,Christopher Espinoza,,1040.0,
+B-26752,6105,1447,Furniture,San Francisco,2022-08-11,California,Roy Miller,,1041.0,
+B-26752,6105,1447,Furniture,Columbus,2022-08-12,Ohio,Christopher Espinoza,,1042.0,
+B-25640,670,85,Office Supplies,Houston,2023-08-21,Texas,Claire Cole,,1043.0,
+B-25030,4057,1012,Electronics,San Diego,2022-09-12,California,Eric Nunez,,1044.0,
+B-25504,8178,2462,Office Supplies,Los Angeles,2023-08-20,California,David Bell,,1045.0,
+B-26912,8752,1686,Furniture,Cincinnati,2020-12-27,Ohio,Patrick Hensley MD,,1046.0,
+B-26912,8752,1686,Furniture,Peoria,2023-09-04,Illinois,John Cox,,1047.0,
+B-26912,8752,1686,Furniture,Chicago,2022-01-08,Illinois,Michelle Sullivan,,1048.0,
+B-25193,8974,4441,Electronics,New York City,2023-06-05,New York,Angela Todd,,1049.0,
+B-25106,9090,3098,Electronics,Dallas,2021-04-01,Texas,Luke Saunders,,1050.0,
+B-25106,9090,3098,Electronics,Springfield,2024-05-28,Illinois,Dr. Jennifer Benton DVM,,1051.0,
+B-25106,851,356,Electronics,Dallas,2021-04-01,Texas,Luke Saunders,,1052.0,
+B-25106,851,356,Electronics,Springfield,2024-05-28,Illinois,Dr. Jennifer Benton DVM,,1053.0,
+B-26835,5427,728,Electronics,Miami,2023-03-09,Florida,Keith Smith,,1054.0,
+B-25836,2695,914,Furniture,Peoria,2022-07-28,Illinois,Danielle Mitchell,,1055.0,
+B-25836,2695,914,Furniture,Los Angeles,2021-06-17,California,Jesus Hernandez,,1056.0,
+B-26661,2386,999,Office Supplies,Miami,2024-02-13,Florida,Jason Norman,,1057.0,
+B-26317,2284,149,Office Supplies,Rochester,2021-08-06,New York,Laura Poole,,1058.0,
+B-26839,6034,608,Electronics,Houston,2022-05-01,Texas,Sarah Wagner,,1059.0,
+B-26839,8956,3359,Furniture,Houston,2022-05-01,Texas,Sarah Wagner,,1060.0,
+B-25735,7122,1982,Office Supplies,Peoria,2024-03-11,Illinois,Bryan Baird,,1061.0,
+B-25387,9775,4507,Office Supplies,Cincinnati,2020-07-06,Ohio,Amy Thompson,,1062.0,
+B-25192,3309,177,Furniture,Cleveland,2020-12-17,Ohio,Ashley Wright,,1063.0,
+B-26844,4163,897,Electronics,Springfield,2022-08-30,Illinois,Michelle Lynch,,1064.0,
+B-26844,4163,897,Electronics,Cleveland,2025-02-27,Ohio,Ryan Hale,,1065.0,
+B-26844,4163,897,Electronics,Orlando,2021-06-05,Florida,Marie Jefferson,,1066.0,
+B-25236,5518,867,Furniture,Houston,2022-12-22,Texas,Vanessa Smith,,1067.0,
+B-25940,7566,606,Electronics,Columbus,2025-01-25,Ohio,Ryan Foster,,1068.0,
+B-25940,7566,606,Electronics,San Diego,2025-02-14,California,David Lara,,1069.0,
+B-26765,762,92,Electronics,Springfield,2023-01-06,Illinois,Jonathan Young,,1070.0,
+B-26817,3316,126,Electronics,Cincinnati,2020-10-11,Ohio,Debra Townsend,,1071.0,
+B-26522,5994,2826,Furniture,San Francisco,2023-05-24,California,John Thomas,,1072.0,
+B-26522,5994,2826,Furniture,Los Angeles,2024-03-12,California,Bryan Anderson,,1073.0,
+B-26522,5994,2826,Furniture,New York City,2024-03-17,New York,Sarah Miller,,1074.0,
+B-25681,3854,245,Electronics,Columbus,2022-05-17,Ohio,Robert Hill,,1075.0,
+B-25382,7019,2677,Office Supplies,Miami,2020-12-21,Florida,Joshua Rojas,,1076.0,
+B-25944,5954,2640,Electronics,New York City,2021-08-24,New York,Angelica Lewis,,1077.0,
+B-25944,5954,2640,Electronics,Dallas,2022-10-22,Texas,Jessica Russell,,1078.0,
+B-26980,9752,3618,Furniture,Rochester,2024-02-21,New York,Mary Johnson,,1079.0,
+B-26980,9752,3618,Furniture,Peoria,2022-10-31,Illinois,Joseph Knight,,1080.0,
+B-25780,5335,322,Electronics,New York City,2022-05-15,New York,Jessica Greene,,1081.0,
+B-25964,1454,80,Electronics,Rochester,2022-07-22,New York,Vincent Perez,,1082.0,
+B-26767,6724,1539,Furniture,San Francisco,2021-12-13,California,Dennis Rivera,,1083.0,
+B-26767,6724,1539,Furniture,Dallas,2021-06-03,Texas,Nancy Keller,,1084.0,
+B-25501,9874,3895,Office Supplies,Cleveland,2025-02-24,Ohio,Michelle Anderson,,1085.0,
+B-26029,4918,1485,Electronics,Tampa,2023-02-02,Florida,Anthony May,,1086.0,
+B-25292,3189,1180,Office Supplies,New York City,2021-12-31,New York,Michelle Guerra,,1087.0,
+B-25873,2684,713,Electronics,New York City,2024-06-15,New York,Meghan Ballard,,1088.0,
+B-25873,2684,713,Electronics,Buffalo,2022-06-05,New York,Brian Wheeler,,1089.0,
+B-25873,2684,713,Electronics,Dallas,2020-05-11,Texas,William Rosario,,1090.0,
+B-25444,7626,229,Office Supplies,Springfield,2024-02-11,Illinois,Jessica Hunt,,1091.0,
+B-25444,7626,229,Office Supplies,Columbus,2020-11-25,Ohio,Tony Chavez,,1092.0,
+B-26796,6669,3063,Electronics,Cincinnati,2023-08-12,Ohio,Mary Crawford,,1093.0,
+B-25537,6123,1686,Office Supplies,Cincinnati,2022-05-06,Ohio,Roger Morrison,,1094.0,
+B-26083,3265,1390,Office Supplies,Los Angeles,2024-01-17,California,Bethany Harrison,,1095.0,
+B-25298,8104,1039,Office Supplies,Orlando,2021-11-24,Florida,Lisa Mcintyre,,1096.0,
+B-25298,8104,1039,Office Supplies,Miami,2021-10-06,Florida,Carolyn Gonzalez,,1097.0,
+B-25298,8104,1039,Office Supplies,San Francisco,2025-01-27,California,Christina Oconnell,,1098.0,
+B-26734,847,355,Furniture,Buffalo,2022-05-23,New York,James Garcia,,1099.0,
+B-26734,847,355,Furniture,Austin,2023-11-28,Texas,Emily Frederick,,1100.0,
+B-26734,847,355,Furniture,San Francisco,2023-01-18,California,Shawn Wise,,1101.0,
+B-25483,3129,55,Furniture,Peoria,2021-09-06,Illinois,Carrie Alvarez,,1102.0,
+B-25483,7821,3821,Electronics,Peoria,2021-09-06,Illinois,Carrie Alvarez,,1103.0,
+B-26041,9498,256,Electronics,Peoria,2021-02-22,Illinois,Matthew James,,1104.0,
+B-26041,9498,256,Electronics,New York City,2021-10-06,New York,Jerry Alvarado,,1105.0,
+B-26750,5461,1214,Furniture,Rochester,2020-06-07,New York,Paul Zimmerman,,1106.0,
+B-26138,3084,611,Furniture,Dallas,2024-05-21,Texas,Carl Ryan,,1107.0,
+B-26929,6087,3043,Furniture,Buffalo,2020-08-05,New York,Kelly Roberts,,1108.0,
+B-25359,611,300,Furniture,Peoria,2020-10-15,Illinois,Jack Woods,,1109.0,
+B-25738,9909,2999,Office Supplies,Cleveland,2021-05-15,Ohio,Albert Alexander Jr.,,1110.0,
+B-25738,9909,2999,Office Supplies,Austin,2022-01-13,Texas,Teresa Perez,,1111.0,
+B-25931,6485,3178,Furniture,Columbus,2023-07-18,Ohio,Amanda Williams,,1112.0,
+B-25706,7259,1969,Electronics,Springfield,2022-12-08,Illinois,Kristen Lawson,,1113.0,
+B-25352,3333,700,Electronics,Miami,2023-04-17,Florida,Jacob Stewart,,1114.0,
+B-26909,7786,1202,Furniture,Peoria,2020-06-23,Illinois,Daniel Brooks,,1115.0,
+B-26296,7644,2428,Electronics,Springfield,2022-01-20,Illinois,Aaron Dunn,,1116.0,
+B-26112,1476,247,Furniture,Los Angeles,2023-11-18,California,Jacob Martinez,,1117.0,
+B-26112,1476,247,Furniture,San Diego,2022-01-19,California,Raymond Burgess,,1118.0,
+B-26790,3445,1405,Furniture,San Francisco,2020-09-21,California,Jennifer Cooke,,1119.0,
+B-26790,9837,384,Electronics,San Francisco,2020-09-21,California,Jennifer Cooke,,1120.0,
+B-25986,1314,457,Furniture,San Diego,2021-06-11,California,Tyrone White,,1121.0,
+B-25630,5951,936,Electronics,Dallas,2024-08-07,Texas,Charles Williams,,1122.0,
+B-25630,5951,936,Electronics,Columbus,2022-07-26,Ohio,Amy Page,,1123.0,
+B-26872,992,177,Electronics,Los Angeles,2024-01-13,California,Scott Gibbs,,1124.0,
+B-26872,4699,625,Office Supplies,Los Angeles,2024-01-13,California,Scott Gibbs,,1125.0,
+B-25870,5557,2114,Electronics,Cleveland,2021-05-28,Ohio,Angela Roberts,,1126.0,
+B-25991,3436,933,Electronics,Dallas,2021-06-13,Texas,Kyle Hernandez,,1127.0,
+B-25198,9840,3870,Electronics,Austin,2023-04-25,Texas,Cynthia Ferguson,,1128.0,
+B-25189,7620,125,Office Supplies,San Francisco,2021-07-05,California,Brandi Garcia,,1129.0,
+B-25189,7620,125,Office Supplies,San Francisco,2024-10-12,California,Matthew Blake,,1130.0,
+B-26563,4314,1591,Furniture,Buffalo,2021-10-04,New York,Lauren Howell,,1131.0,
+B-25548,8851,999,Electronics,Cincinnati,2024-02-07,Ohio,Joseph Wilson,,1132.0,
+B-25965,544,272,Electronics,Houston,2021-03-05,Texas,Tanner Vance,,1133.0,
+B-25965,544,272,Electronics,Buffalo,2023-06-25,New York,Michael Nash,,1134.0,
+B-26545,537,142,Office Supplies,Peoria,2021-08-02,Illinois,Brent Thomas,,1135.0,
+B-26603,5944,2661,Electronics,Austin,2022-03-17,Texas,Harold Mitchell,,1136.0,
+B-26393,2258,135,Electronics,Miami,2024-02-07,Florida,Ashley Palmer,,1137.0,
+B-26393,2258,135,Electronics,San Diego,2022-08-19,California,Stephen Hogan,,1138.0,
+B-26628,9609,4339,Furniture,Houston,2024-09-19,Texas,George Ashley,,1139.0,
+B-26628,9609,4339,Furniture,Cincinnati,2020-04-05,Ohio,Sara Bailey,,1140.0,
+B-25945,9952,3301,Electronics,Dallas,2023-03-10,Texas,Tanya Thomas MD,,1141.0,
+B-26565,9873,4585,Office Supplies,Columbus,2020-08-10,Ohio,Maria Galvan,,1142.0,
+B-25684,3560,1335,Electronics,New York City,2020-04-29,New York,Duane Kelly,,1143.0,
+B-25684,3560,1335,Electronics,Springfield,2023-03-16,Illinois,Frank Reynolds,,1144.0,
+B-26612,6528,76,Electronics,Buffalo,2020-05-04,New York,Aaron Kim,,1145.0,
+B-26612,8930,3374,Furniture,Buffalo,2020-05-04,New York,Aaron Kim,,1146.0,
+B-25839,4521,1778,Office Supplies,Tampa,2024-10-15,Florida,David Allen,,1147.0,
+B-25898,7091,2317,Furniture,San Diego,2022-06-09,California,Monica Lee,,1148.0,
+B-26120,2101,287,Office Supplies,Cleveland,2020-07-04,Ohio,Kimberly Fuller,,1149.0,
+B-26120,2101,287,Office Supplies,Chicago,2023-04-09,Illinois,Erica Scott,,1150.0,
+B-26426,8644,1968,Office Supplies,Chicago,2023-11-24,Illinois,Melissa Mitchell,,1151.0,
+B-26309,6672,3319,Furniture,Dallas,2023-11-29,Texas,Joshua Murray,,1152.0,
+B-26309,6672,3319,Furniture,San Diego,2024-05-20,California,John Jones,,1153.0,
+B-26789,4699,103,Office Supplies,Cincinnati,2024-05-21,Ohio,Cheryl Johnson,,1154.0,
+B-26420,4897,1001,Furniture,Houston,2021-12-07,Texas,Lisa Farmer,,1155.0,
+B-26420,4897,1001,Furniture,Cincinnati,2025-01-06,Ohio,Christopher Walker,,1156.0,
+B-26257,5460,2088,Furniture,Buffalo,2022-07-13,New York,Elizabeth Coffey,,1157.0,
+B-26257,5460,2088,Furniture,Cincinnati,2020-04-19,Ohio,Joseph Clark,,1158.0,
+B-25603,9272,1771,Office Supplies,Springfield,2024-11-14,Illinois,Jamie Brewer,,1159.0,
+B-25603,9272,1771,Office Supplies,Dallas,2020-04-18,Texas,Lauren Boyer,,1160.0,
+B-25010,7870,1057,Office Supplies,Houston,2023-10-18,Texas,Howard Esparza,,1161.0,
+B-25010,7870,1057,Office Supplies,Cleveland,2021-03-21,Ohio,James Hickman,,1162.0,
+B-25889,7992,893,Electronics,Cleveland,2024-09-13,Ohio,Jennifer Hernandez,,1163.0,
+B-25889,7992,893,Electronics,New York City,2023-05-04,New York,Shannon Warren,,1164.0,
+B-25889,7992,893,Electronics,Chicago,2023-05-31,Illinois,Ashley Aguilar,,1165.0,
+B-26675,6499,2189,Electronics,New York City,2024-06-15,New York,Daniel Price,,1166.0,
+B-26675,6499,2189,Electronics,Orlando,2021-04-03,Florida,James Perez,,1167.0,
+B-26168,8848,2090,Office Supplies,San Diego,2025-01-14,California,Jerry Smith,,1168.0,
+B-25436,8044,3634,Office Supplies,Orlando,2020-12-24,Florida,Andre Fernandez,,1169.0,
+B-25436,8044,3634,Office Supplies,San Diego,2022-10-07,California,Anthony West,,1170.0,
+B-25794,7417,1334,Furniture,Tampa,2021-10-05,Florida,Amber Flowers,,1171.0,
+B-26495,3451,658,Office Supplies,Chicago,2024-12-28,Illinois,Patricia Davis,,1172.0,
+B-25815,8531,2555,Electronics,Austin,2022-05-14,Texas,Jasmine Gibbs,,1173.0,
+B-25022,6646,848,Furniture,New York City,2023-08-19,New York,Nicole Dudley,,1174.0,
+B-25022,6646,848,Furniture,Buffalo,2023-07-14,New York,Lori Colon,,1175.0,
+B-26928,2553,907,Electronics,Dallas,2023-06-22,Texas,William Carr,,1176.0,
+B-25905,8490,3485,Electronics,New York City,2023-03-21,New York,Jeffrey Dixon,,1177.0,
+B-26739,2689,1330,Furniture,Los Angeles,2020-12-13,California,Robert Sexton,,1178.0,
+B-26739,2689,1330,Furniture,Miami,2024-05-29,Florida,Brooke Gonzalez,,1179.0,
+B-25697,815,54,Furniture,San Francisco,2021-05-25,California,Victoria Bryant MD,,1180.0,
+B-25234,5024,379,Office Supplies,Dallas,2024-04-02,Texas,Nancy Kennedy,,1181.0,
+B-25234,5024,379,Office Supplies,Peoria,2022-12-03,Illinois,Andrew Barry,,1182.0,
+B-25665,8962,2444,Electronics,Cleveland,2021-07-12,Ohio,Carlos Wheeler,,1183.0,
+B-25665,8962,2444,Electronics,Peoria,2020-03-22,Illinois,Isabella Roach,,1184.0,
+B-25028,1961,59,Office Supplies,Orlando,2020-08-09,Florida,Samantha Williams,,1185.0,
+B-26659,526,83,Furniture,Chicago,2022-02-18,Illinois,Samuel Little MD,,1186.0,
+B-25966,6093,3042,Furniture,San Francisco,2021-06-14,California,Paul Taylor,,1187.0,
+B-25966,6093,3042,Furniture,San Diego,2021-03-01,California,Susan Baker,,1188.0,
+B-25350,7699,246,Electronics,Austin,2023-09-23,Texas,Mark Fry,,1189.0,
+B-26370,8825,3594,Furniture,New York City,2024-07-31,New York,Megan Mclean,,1190.0,
+B-26298,2082,642,Electronics,Rochester,2020-06-02,New York,Caitlin Hunt,,1191.0,
+B-26298,2082,642,Electronics,Austin,2022-12-15,Texas,Jenna Holland,,1192.0,
+B-26298,2082,642,Electronics,Buffalo,2020-08-07,New York,Stephanie Oconnell,,1193.0,
+B-25068,914,163,Office Supplies,Chicago,2024-10-26,Illinois,Andrea Hill,,1194.0,
